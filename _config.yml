@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Arafat Hussain, PhD"
+title                    : "M Arafat Hussain, PhD"
 title_separator          : ":"
 name                     : &name "Mohammad Arafat Hussain"
 description              : &description "personal description"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Arafat Hussain"
+  name             : "M Arafat Hussain"
   avatar           : "profile.png"
   bio              : "Postdoc @SFU"
   location         : "Vancouver, BC, Canada"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : "Simon Fraser University"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Mohammad+Arafat+Hussain"
+  googlescholar    : "https://scholar.google.ca/citations?user=hFwvdQcAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Mohammad_Arafat_Hussain"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/mohammad-arafat-hussain/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "arafathussain88"
   vine             :
   weibo            :
   xing             :
