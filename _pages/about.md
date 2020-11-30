@@ -11,7 +11,7 @@ I am currently a Postdoctoral Research Associate in the [Medical Image Analysis 
 
 I completed my M.A.Sc. and Ph.D. in Biomendical Engineering under the supervision of [Prof. Rafeef Garbi](https://bisicl.ece.ubc.ca/rafeef/) at the [University of British Columbia (UBC)](https://bisicl.ece.ubc.ca/), Vancouver. In my Ph.D. project, I primarily focused on kidney cancer detection and analysis in CT using deep learning. My M.A.Sc. project, on the other hand, focused on robust bone boundary localization in ultrasound to facilitate minimally invasive ultrasound-guided orthopedic surgery.
 
-Before joining UBC, I did M.Sc. and B.Sc. in Electrical and Electronic Engineering at [Bangladesh University of Engineering & Technology (BUET)](https://www.buet.ac.bd/web/). During my M.Sc., I worked as a Research Engineer under the supervision of [Prof. Md Kamrul Hasan](http://khasan.buet.ac.bd/), and developed novel ultrasound elastography techniques for breast cancer detection. I also worked as a Software Engineer in the [Samsung R&D Institute Bangladesh](https://research.samsung.com/srbd) after completing my B.Sc. degree.
+Before joining UBC, I completed M.Sc. and B.Sc. in Electrical and Electronic Engineering at [Bangladesh University of Engineering & Technology (BUET)](https://www.buet.ac.bd/web/). During my M.Sc., I worked as a Research Engineer under the supervision of [Prof. Md Kamrul Hasan](http://khasan.buet.ac.bd/), and developed novel ultrasound elastography techniques for breast cancer detection. I also worked as a Software Engineer in the [Samsung R&D Institute Bangladesh](https://research.samsung.com/srbd) after completing my B.Sc. degree.
 
 👨🏻‍🎓 <strong style="color: blue;font-size:24px">Education</strong>
 
