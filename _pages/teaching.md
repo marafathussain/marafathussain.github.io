@@ -5,8 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
-✍ <strong style="color: blue;font-size:22px">Graduate Teaching Assistant (GTA)</strong> 🇨🇦\
-[University of British Columbia, Vancouver](https://www.ubc.ca/) (Jan 2014 - Dec 2019)
+✍ <strong style="color: blue;font-size:22px">Graduate Teaching Assistant (GTA)</strong>\
+[University of British Columbia, Vancouver](https://www.ubc.ca/) (Jan 2014 - Dec 2019) 🇨🇦
 
 Conducted tutorials, invigilation, grading and laboratory demonstrations for the following courses:\
 📘 EECE 269: Signals and Systems (Jan 2014)\
@@ -19,8 +19,8 @@ Conducted tutorials, invigilation, grading and laboratory demonstrations for the
 📘 ELEC 211: Engineering Electromagnetics (Jan 2019)
 
 
-✍ <strong style="color: blue;font-size:22px">Senior Lecturer</strong>🇧🇩\
-[Eastern University, Dhaka, Bangladesh](http://www.easternuni.edu.bd/) (May 2015 - August 2015)
+✍ <strong style="color: blue;font-size:22px">Senior Lecturer</strong>\
+[Eastern University, Dhaka, Bangladesh](http://www.easternuni.edu.bd/) (May 2015 - August 2015) 🇧🇩
 
 Conducted lectures, invigilation, grading and laboratory demonstrations for the following courses:\
 📘 EEE 431: Microprocessor and Interfacing\
