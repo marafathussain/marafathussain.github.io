@@ -24,7 +24,7 @@ author_profile: true
 
 <h2 style="color: blue;">Conference Papers</h2>
 
-1. **Hussain MA**, Hamarneh G, Garbi R.: ImHistNet: Learnable Image Histogram Based DNN with Application to Non- invasive Determination of Carcinoma Grades in CT Scans. International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), pp. 130-138, 2019, Shenzhen, China. 
+1. **Hussain MA**, Hamarneh G, Garbi R.: ImHistNet: Learnable Image Histogram Based DNN with Application to Non-invasive Determination of Carcinoma Grades in CT Scans. International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), pp. 130-138, 2019, Shenzhen, China. 
 
 2. **Hussain MA**, Hamarneh G, Garbi R.: Renal Cell Carcinoma Staging with Learnable Image Histogram-based Deep Neural Network. International Workshop on Machine Learning in Medical Imaging (MLMI), pp 533-540, 2019, Shenzhen, China. 
 
@@ -38,11 +38,11 @@ author_profile: true
 
 7. **Hussain MA**, Shourov RM.: Compressively Sensed Ultrasound Radio-frequency Data Reconstruction Using the Combined Curvelets and Wave Atoms Basis. International Conference on Electrical and Electronic Engineering (ICEEE), pp. 209-212, 2015, Rajshahi, Bangladesh. 
 
-8. **Hussain MA**, Shourov RM, Khan SN.: Towards Real-time 3D Geometric Nonlinear Diffusion Filter and Its Applica- tion to CT and MR Imaging. 18th International Conference on Computer and Information Technology (ICCIT), pp. 462-467, 2015, Dhaka, Bangladesh. 
+8. **Hussain MA**, Shourov RM, Khan SN.: Towards Real-time 3D Geometric Nonlinear Diffusion Filter and Its Application to CT and MR Imaging. 18th International Conference on Computer and Information Technology (ICCIT), pp. 462-467, 2015, Dhaka, Bangladesh. 
 
-9. **Hussain MA**, Guy P, Hodgson AJ, Abugharbieh, R.: Automatic Bone Segmentation in Ultrasound using Com- bined Ultrasound Strain Imaging and Envelope Signal Power, 2015 International Meeting on Computer Assisted Orthopaedic Surgery (CAOS), pp. 1-4, 2015, Vancouver, Canada. 
+9. **Hussain MA**, Guy P, Hodgson AJ, Abugharbieh, R.: Automatic Bone Segmentation in Ultrasound using Combined Ultrasound Strain Imaging and Envelope Signal Power, 2015 International Meeting on Computer Assisted Orthopaedic Surgery (CAOS), pp. 1-4, 2015, Vancouver, Canada. 
 
-10. **Hussain MA**, Hodgson AJ, Abugharbieh R.: Robust Bone Detection in Ultrasound Using Combined Strain Imag- ing and Envelope Signal Power Detection. International Conference on Medical Image Computing and Computer- Assisted Intervention (MICCAI), pp. 356-363, 2014, Boston, MA. 
+10. **Hussain MA**, Hodgson AJ, Abugharbieh R.: Robust Bone Detection in Ultrasound Using Combined Strain Imaging and Envelope Signal Power Detection. International Conference on Medical Image Computing and Computer- Assisted Intervention (MICCAI), pp. 356-363, 2014, Boston, MA. 
 
 11. Kabir HM, Alam SB, Azam MI, **Hussain MA**, Sazzad AR, Sakib MN, Matin MA.: Non-linear Down-sampling and Signal Reconstruction, Without Folding. 4th UKSim European Symposium on Computer Modeling and Simulation, pp. 142-146, 2010, Pisa, Italy. 
 
@@ -50,7 +50,7 @@ author_profile: true
 
 1. **Hussain MA**, Anas EM, Alam SK, Lee SY, Hasan MK.: Improved Elasticity Imaging by Maximizing the Weighted Peaks of the Nearest Neighbor Cross-correlation Function. 2012 American Institution of Ultrasound in Medicine (AIUM) Annual Convention and Preconvention Program, Phoenix, Arizona. March 29 - April 1, 2012.
 
-2. **Hussain MA**, Alam SK, Lee SY, Hasan MK.: A Robust Strain Estimation Algorithm Using Combined Radio- frequency and Envelope Cross-correlation. Ultrasonic Imaging and Tissue Characterization Symposium, Rosslyn, Virginia. June 11-13, 2012.
+2. **Hussain MA**, Alam SK, Lee SY, Hasan MK.: A Robust Strain Estimation Algorithm Using Combined Radio-frequency and Envelope Cross-correlation. Ultrasonic Imaging and Tissue Characterization Symposium, Rosslyn, Virginia. June 11-13, 2012.
 
 <h2 style="color: blue;">Non Peer-reviewed Abstracts</h2>
 
@@ -64,6 +64,6 @@ author_profile: true
 
 2. **Hussain MA**.: Robust Bone Detection in Ultrasound Using Combined Strain Imaging and Envelope Signal Power Detection. M.A.Sc., UBC, 2015. Supervisors: Prof. Rafeef Garbi & Prof. Antony J. Hodgson.
 
-3. **Hussain MA**.: Average Strain Estimation for Ultrasound Elastography Using Exponentially Weighted Nearest Neigh- bors. M.Sc., BUET, 2013. Supervisor: Prof. Md Kamrul Hasan.
+3. **Hussain MA**.: Average Strain Estimation for Ultrasound Elastography Using Exponentially Weighted Nearest Neighbors. M.Sc., BUET, 2013. Supervisor: Prof. Md Kamrul Hasan.
 
 4. **Hussain MA** and Islam, MT (Equal Contribution): Ultrasound Strain Imaging in Wavelet Domain. B.Sc., BUET, 2011. Supervisor: Prof. Md Kamrul Hasan.
