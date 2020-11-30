@@ -45,3 +45,25 @@ author_profile: true
 10. **Hussain MA**, Hodgson AJ, Abugharbieh R.: Robust Bone Detection in Ultrasound Using Combined Strain Imag- ing and Envelope Signal Power Detection. International Conference on Medical Image Computing and Computer- Assisted Intervention (MICCAI), pp. 356-363, 2014, Boston, MA. 
 
 11. Kabir HM, Alam SB, Azam MI, **Hussain MA**, Sazzad AR, Sakib MN, Matin MA.: Non-linear Down-sampling and Signal Reconstruction, Without Folding. 4th UKSim European Symposium on Computer Modeling and Simulation, pp. 142-146, 2010, Pisa, Italy. 
+
+<h2 style="color: blue;">Peer-reviewed Abstracts</h2>
+
+1. **Hussain MA**, Anas EM, Alam SK, Lee SY, Hasan MK.: Improved Elasticity Imaging by Maximizing the Weighted Peaks of the Nearest Neighbor Cross-correlation Function. 2012 American Institution of Ultrasound in Medicine (AIUM) Annual Convention and Preconvention Program, Phoenix, Arizona. March 29 - April 1, 2012.
+
+2. **Hussain MA**, Alam SK, Lee SY, Hasan MK.: A Robust Strain Estimation Algorithm Using Combined Radio- frequency and Envelope Cross-correlation. Ultrasonic Imaging and Tissue Characterization Symposium, Rosslyn, Virginia. June 11-13, 2012.
+
+<h2 style="color: blue;">Non Peer-reviewed Abstracts</h2>
+
+1. **Hussain MA**, Hamarneh G, Garbi R.: Kidney Cancer Detection and Analysis from CT Using Deep Learning. 2nd Annual School of Biomedical Engineering Symposium, 2019, Vancouver, Canada.
+
+2. **Hussain MA**, Hamarneh G, Garbi R.: Learnable Image Histogram Based Deep Neural Network with Application to Noninvasive Determination of Renal Cell Carcinoma Grades in CT Scans. Research Day: The Future of Health Symposium, Nov 8, 2019, Vancouver, Canada. 
+
+<h2 style="color: blue;">Theses</h2>
+
+1. **Hussain MA**.: Volumetric Image-based Supervised Learning for Renal Cancer Detection and Analysis. Ph.D., UBC, 2020. Supervisor: Prof. Rafeef Garbi.
+
+2. **Hussain MA**.: Robust Bone Detection in Ultrasound Using Combined Strain Imaging and Envelope Signal Power Detection. M.A.Sc., UBC, 2015. Supervisors: Prof. Rafeef Garbi & Prof. Antony J. Hodgson.
+
+3. **Hussain MA**.: Average Strain Estimation for Ultrasound Elastography Using Exponentially Weighted Nearest Neigh- bors. M.Sc., BUET, 2013. Supervisor: Prof. Md Kamrul Hasan.
+
+4. **Hussain MA** and Islam, MT (Equal Contribution): Ultrasound Strain Imaging in Wavelet Domain. B.Sc., BUET, 2011. Supervisor: Prof. Md Kamrul Hasan.
