@@ -16,10 +16,10 @@ Conducted tutorials, invigilation, grading and laboratory demonstrations for the
 📘 CPEN/ELEC 481: Economic Analysis of Engineering Projects (May 2016)\
 📘 ELEC 221: Signals and Systems (September 2016, September 2017, 2018, 2019)\
 📘 APSC 160: Introduction to Computation in Engineering Design (May 2017, 2018, 2019, September 2017, January 2018)\
-📘 ELEC 211: Engineering Electromagnetics (January 2019)\
+📘 ELEC 211: Engineering Electromagnetics (January 2019)
 
 
-✍ <strong style="color: blue;font-size:14vw">Senior Lecturer</strong> \
+✍ <strong style="color: blue;font-size:14vw">Senior Lecturer</strong>\
 [Eastern University, Dhaka, Bangladesh](http://www.easternuni.edu.bd/) (May 2015 - August 2015)
 
 Conducted lectures, invigilation, grading and laboratory demonstrations for the following courses:\
@@ -28,4 +28,4 @@ Conducted lectures, invigilation, grading and laboratory demonstrations for the 
 📘 EEE 353: Measurement and Instrumentation\
 📘 EEE 354: Measurement and Instrumentation Laboratory\
 📘 EEE 433: Solid State Devices\
-📘 EEE 340: Electronic Project Design\
+📘 EEE 340: Electronic Project Design
