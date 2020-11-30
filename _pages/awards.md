@@ -10,7 +10,7 @@ author_profile: true
 Received an award of 500 US$ to attend the premier conference, the International Conference on Medical Image Computing and Computer Assisted Interventions (MICCAI), held in Shenzhen, China.
 
 ✰ <strong style="color: blue;font-size:22px">Conference Travel Support for ICICS Graduate Students</strong>\
-**Institute for Computing, Information and Cognitive Systems (ICICS), UBC, Sep 2017**
+**Institute for Computing, Information and Cognitive Systems (ICICS), UBC, Sep 2017**\
 Received an award of 1000 CA$ to attend the International Conference on Medical Image Computing and Computer Assisted Interventions (MICCAI) and International Workshop on Machine Learning in Medical Imaging (MLMI), held in Quebec City, Quebec, Canada.
 
 ✰ <strong style="color: blue;font-size:22px">Outstanding Reviewer Recognition</strong>\
