@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-<h2 style="color: blue;">Invited Talks/Presentations</h2>
+👨🏻‍💻 <strong style="color: blue;">Invited Talks/Presentations</strong>
 
 - **Title: Volumetric Image-based Supervised Learning Approaches for Kidney Cancer Detection & Analysis**\
 October 2020\
