@@ -7,13 +7,15 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+👨🏻‍🎓 <strong style="color: blue;font-size:24px">Education</strong>
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+- [University of British Columbia (UBC), Vancouver](https://www.ubc.ca/) 🇨🇦\
+  Ph.D. in Biomedical Engineering, 2020\
+  M.A.Sc. in Biomedical Engineering, 2015
+  
+- [Bangladesh University of Engineering & Technology (BUET)](https://www.buet.ac.bd/web/) 🇧🇩\
+  M.Sc. in Electrical and Electronic Engineering, 2013\
+  B.Sc. in Electrical and Electronic Engineering, 2011
 
 Work experience
 ======
