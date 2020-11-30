@@ -6,35 +6,27 @@ author_profile: true
 ---
 
 ✰ <strong style="color: blue;font-size:22px">Graduate Student Award</strong>
-Medical Image Computing and Computer Assisted Intervention Society, Oct 2019\
+**Medical Image Computing and Computer Assisted Intervention Society, Oct 2019**
 <p style="color: Gray;">Received an award of 500 US$ to attend the premier conference, the International Conference on Medical Image Computing and Computer Assisted Interventions (MICCAI), held in Shenzhen, China.</p>
 
 ✰ <strong style="color: blue;font-size:22px">Conference Travel Support for ICICS Graduate Students</strong>
-Institute for Computing, Information and Cognitive Systems (ICICS), UBC, Sep 2017
+**Institute for Computing, Information and Cognitive Systems (ICICS), UBC, Sep 2017**
 <p style="color: Gray;">Received an award of 1000 CA$ to attend the International Conference on Medical Image Computing and Computer Assisted Interventions (MICCAI) and International Workshop on Machine Learning in Medical Imaging (MLMI), held in Quebec City, Quebec, Canada.</p>
 
-✰ Outstanding Reviewer Recognition
-honor dateJan 2016  honor issuerElsevier
+✰ <strong style="color: blue;font-size:22px">Outstanding Reviewer Recognition</strong>
+**Elsevier, Jan 2016**
 
-✰ Four Year Fellowship
-honor dateSep 2015  honor issuerThe University of British Columbia
+✰ <strong style="color: blue;font-size:22px">Four Year Fellowship</strong>
+**The University of British Columbia, 2015-2019**
+<p style="color: Gray;">Received a full scholarship of 22,000CAD/year for 4 years from the department of Electrical and Computer Engineering, UBC. This fellowship funds the doctoral research in Biomedical Engineering at the University of British Columbia, Vancouver, Canada.</p>
 
-honor descriptionReceived a full scholarship of 22,000CAD/year for 4 years from the department of Electrical and Computer Engineering, UBC. This fellowship funds the doctoral research in Biomedical Engineering at the University of British Columbia, Vancouver, Canada.
+✰ <strong style="color: blue;font-size:22px">Graduate Student Travel Award</strong> 
+**Medical Image Computing and Computer Assisted Intervention Society, Oct 2019**
+<p style="color: Gray;">Received an award of 750 US$ to attend the premier conference, the International Conference on Medical Image Computing and Computer Assisted Interventions (MICCAI), held in Boston, MA.</p>
 
-✰ Doctor of Philosophy (DPhil) Admission Offer
-honor dateMar 2015  honor issuerThe University of Oxford
-
-honor descriptionReceived a PhD admission offer from the Department of Engineering Science at the University of Oxford.
-
-✰ Graduate Student Travel Award
-honor dateSep 2014  honor issuerMICCAI Society
-
-honor descriptionReceived an award of 750 US$ to attend the premier conference, the International Conference on Medical Image Computing and Computer Assisted Interventions (MICCAI), held in Boston, MA.
-
-✰ Graduate Research Assistantship
-honor dateMay 2013  honor issuerThe University of British Columbia, Vancouver
-
-honor descriptionReceived a full scholarship of 18,000CAD/year for 2 years from the department of Electrical and Computer Engineering, UBC. This fellowship funded the Master of Applied Science (MASc) research in Biomedical Engineering at the University of British Columbia, Vancouver, Canada.
+✰ <strong style="color: blue;font-size:22px">Graduate Research Assistantship</strong> 
+**The University of British Columbia, 2013-2015**
+<p style="color: Gray;">Received a full scholarship of 18,000CAD/year for 2 years from the department of Electrical and Computer Engineering, UBC. This fellowship funded the Master of Applied Science (MASc) research in Biomedical Engineering at the University of British Columbia, Vancouver, Canada.</p>
 
 ✰ Graduate Support Initiative
 honor dateMay 2013  honor issuerThe University of British Columbia
