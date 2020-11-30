@@ -15,6 +15,7 @@ Received an award of 500 US$ to attend the premier conference, the International
 
 ✰ <strong style="color: blue;font-size:22px">Outstanding Reviewer Recognition</strong>\
 **Elsevier, Jan 2016**
+Received this recognition ffrom Elsevier or outstanding journal reviewing works.
 
 ✰ <strong style="color: blue;font-size:22px">Four Year Fellowship</strong>\
 **The University of British Columbia, 2015-2019**\
@@ -51,3 +52,7 @@ Received an award of 3,000 BDT in recognition of achieving CGPA greater than 3.7
 ✰ <strong style="color: blue;font-size:22px">Merit Scholarship</strong>\
 **Ministry of Education, Government of the People's Republic of Bangladesh, 2003-2010**\
 Received two merit scholarships totaling 20,000 BDT/year for securing merit positions in class X and XII nation-wide board examinations.
+
+
+## Offers Received
+
