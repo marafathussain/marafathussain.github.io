@@ -8,7 +8,8 @@ author_profile: true
 ✍ <strong style="color: blue;">Graduate Teaching Assistant (GTA)</strong> \
 University of British Columbia, Vancouver (Jan 2014 - Dec 2019)
 
-Conducted tutorials, invigilation, grading and laboratory demonstrations for the following courses:\ 
+Conducted tutorials, invigilation, grading and laboratory demonstrations for the following courses:
+
 📘 EECE 269: Signals and Systems (January 2014)\
 📘 EECE 360: Systems and Control (September 2014)\
 📘 EECE 380: Electrical Engineering Design Studio (January 2015)\
@@ -17,13 +18,13 @@ Conducted tutorials, invigilation, grading and laboratory demonstrations for the
 📘 ELEC 221: Signals and Systems (September 2016, September 2017, 2018, 2019)\
 📘 APSC 160: Introduction to Computation in Engineering Design (May 2017, 2018, 2019, September 2017, January 2018)\
 📘 ELEC 211: Engineering Electromagnetics (January 2019)\
-\
 
 
 ✍ <strong style="color: blue;">Senior Lecturer</strong> 
 Eastern University, Dhaka, Bangladesh (May 2015 - August 2015)
 
 Conducted lectures, invigilation, grading and laboratory demonstrations for the following courses: 
+
 📘 EEE 431: Microprocessor and Interfacing\
 📘 EEE 432: Microprocessor and Interfacing Laboratory\
 📘 EEE 353: Measurement and Instrumentation\
