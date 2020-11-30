@@ -11,10 +11,10 @@ Received an award of 500 US$ to attend the premier conference, the International
 
 ✰ <strong style="color: blue;font-size:22px">Conference Travel Support for ICICS Graduate Students</strong>\
 **Institute for Computing, Information and Cognitive Systems (ICICS), UBC, Sep 2017**
-<p style="color: Gray;">Received an award of 1000 CA$ to attend the International Conference on Medical Image Computing and Computer Assisted Interventions (MICCAI) and International Workshop on Machine Learning in Medical Imaging (MLMI), held in Quebec City, Quebec, Canada.</p>
+Received an award of 1000 CA$ to attend the International Conference on Medical Image Computing and Computer Assisted Interventions (MICCAI) and International Workshop on Machine Learning in Medical Imaging (MLMI), held in Quebec City, Quebec, Canada.
 
 ✰ <strong style="color: blue;font-size:22px">Outstanding Reviewer Recognition</strong>\
-**Elsevier, Jan 2016**
+**Elsevier, Jan 2016**\
 Received this recognition ffrom Elsevier or outstanding journal reviewing works.
 
 ✰ <strong style="color: blue;font-size:22px">Four Year Fellowship</strong>\
