@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-✍ <strong style="color: blue;font-size:22px">About Me</strong>\
+<strong style="color: blue;font-size:22px">About Me</strong>\
 
 To be filled.
 
