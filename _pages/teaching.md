@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-✍ <strong style="color: blue;font-size:6vw">Graduate Teaching Assistant (GTA)</strong> \
+✍ <strong style="color: blue;">Graduate Teaching Assistant (GTA)</strong> \
 [University of British Columbia, Vancouver](https://www.ubc.ca/) (Jan 2014 - Dec 2019)
 
 Conducted tutorials, invigilation, grading and laboratory demonstrations for the following courses:\
