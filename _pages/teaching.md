@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-✍ <strong style="color: blue;">Graduate Teaching Assistant (GTA)</strong> \
+✍ <strong style="color: blue;font-size:24px">Graduate Teaching Assistant (GTA)</strong> \
 [University of British Columbia, Vancouver](https://www.ubc.ca/) (Jan 2014 - Dec 2019)
 
 Conducted tutorials, invigilation, grading and laboratory demonstrations for the following courses:\
@@ -19,7 +19,7 @@ Conducted tutorials, invigilation, grading and laboratory demonstrations for the
 📘 ELEC 211: Engineering Electromagnetics (Jan 2019)
 
 
-✍ <strong style="color: blue;">Senior Lecturer</strong>\
+✍ <strong style="color: blue;font-size:24px">Senior Lecturer</strong>\
 [Eastern University, Dhaka, Bangladesh](http://www.easternuni.edu.bd/) (May 2015 - August 2015)
 
 Conducted lectures, invigilation, grading and laboratory demonstrations for the following courses:\
