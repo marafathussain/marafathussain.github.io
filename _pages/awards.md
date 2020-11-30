@@ -5,10 +5,10 @@ permalink: /awards/
 author_profile: true
 ---
 
-✰ Graduate Student Travel Award
-honor dateOct 2019  honor issuerMedical Image Computing and Computer Assisted Intervention Society
+✰ <strong style="color: blue;font-size:22px">Graduate Student Award</strong>\
+Medical Image Computing and Computer Assisted Intervention Society, Oct 2019
 
-honor descriptionReceived an award of 500 US$ to attend the premier conference, the International Conference on Medical Image Computing and Computer Assisted Interventions (MICCAI), held in Shenzhen, China.
+Received an award of 500 US$ to attend the premier conference, the International Conference on Medical Image Computing and Computer Assisted Interventions (MICCAI), held in Shenzhen, China.
 
 ✰ Conference Travel Support for ICICS Graduate Students
 honor dateSep 2017  honor issuerInstitute for Computing, Information and Cognitive Systems (ICICS), UBC
