@@ -6,12 +6,12 @@ author_profile: true
 ---
 
 ✰ <strong style="color: blue;font-size:22px">Graduate Student Award</strong>
-<p style="color: DodgerBlue;">Medical Image Computing and Computer Assisted Intervention Society, Oct 2019</p>
-Received an award of 500 US$ to attend the premier conference, the International Conference on Medical Image Computing and Computer Assisted Interventions (MICCAI), held in Shenzhen, China.
+Medical Image Computing and Computer Assisted Intervention Society, Oct 2019\
+<p style="color: Gray;">Received an award of 500 US$ to attend the premier conference, the International Conference on Medical Image Computing and Computer Assisted Interventions (MICCAI), held in Shenzhen, China.</p>
 
 ✰ <strong style="color: blue;font-size:22px">Conference Travel Support for ICICS Graduate Students</strong>
-<p style="color: DodgerBlue;">Institute for Computing, Information and Cognitive Systems (ICICS), UBC, Sep 2017</p>
-Received an award of 1000 CA$ to attend the International Conference on Medical Image Computing and Computer Assisted Interventions (MICCAI) and International Workshop on Machine Learning in Medical Imaging (MLMI), held in Quebec City, Quebec, Canada.
+Institute for Computing, Information and Cognitive Systems (ICICS), UBC, Sep 2017
+<p style="color: Gray;">Received an award of 1000 CA$ to attend the International Conference on Medical Image Computing and Computer Assisted Interventions (MICCAI) and International Workshop on Machine Learning in Medical Imaging (MLMI), held in Quebec City, Quebec, Canada.</p>
 
 ✰ Outstanding Reviewer Recognition
 honor dateJan 2016  honor issuerElsevier
