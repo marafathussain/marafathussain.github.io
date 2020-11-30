@@ -6,10 +6,9 @@ author_profile: true
 ---
 
 ✍ <strong style="color: blue;font-size:14vw">Graduate Teaching Assistant (GTA)</strong> \
-University of British Columbia, Vancouver (Jan 2014 - Dec 2019)
+[University of British Columbia, Vancouver](https://www.ubc.ca/) (Jan 2014 - Dec 2019)
 
-Conducted tutorials, invigilation, grading and laboratory demonstrations for the following courses:
-
+Conducted tutorials, invigilation, grading and laboratory demonstrations for the following courses:\
 📘 EECE 269: Signals and Systems (January 2014)\
 📘 EECE 360: Systems and Control (September 2014)\
 📘 EECE 380: Electrical Engineering Design Studio (January 2015)\
@@ -21,10 +20,9 @@ Conducted tutorials, invigilation, grading and laboratory demonstrations for the
 
 
 ✍ <strong style="color: blue;font-size:14vw">Senior Lecturer</strong> \
-Eastern University, Dhaka, Bangladesh (May 2015 - August 2015)
+[Eastern University, Dhaka, Bangladesh](http://www.easternuni.edu.bd/) (May 2015 - August 2015)
 
-Conducted lectures, invigilation, grading and laboratory demonstrations for the following courses: 
-
+Conducted lectures, invigilation, grading and laboratory demonstrations for the following courses:\
 📘 EEE 431: Microprocessor and Interfacing\
 📘 EEE 432: Microprocessor and Interfacing Laboratory\
 📘 EEE 353: Measurement and Instrumentation\
