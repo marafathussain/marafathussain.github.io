@@ -32,25 +32,19 @@ author_profile: true
 **The University of British Columbia, May 2013, Sep 2015, Sep 2016**
 <p style="color: Gray;">Award of 4,000CAD offered to graduate students demonstrating evidence of strong academic performance throughout the university studies.</p>
 
-✰ International Tuition Award
-honor dateMay 2013  honor issuerThe University of British Columbia
+✰ <strong style="color: blue;font-size:22px">Singapore Bangladesh Society Scholarship</strong>\
+**Singapore Bangladesh Society, Jan 2010**
+<p style="color: Gray;">Received two awards totaling 12,000BDT in recognition of strong academic performance in the undergraduate class at Bangladesh University of Engineering and Technology, Dhaka, Bangladesh.</p>
 
-honor descriptionA 3,300CAD/year tuition exception (approximately 35% of total tuition fee) is offered during the graduate studies at the University of British Columbia, Vancouver.
+✰ <strong style="color: blue;font-size:22px">American Association of Bangladeshi Engineers and Architects Scholarship</strong>\
+**American Association of Bangladeshi Engineers and Architects, Jan 2009**
+<p style="color: Gray;">Received an award of 10,000BDT in recognition of strong academic performance in the undergraduate class at Bangladesh University of Engineering and Technology, Dhaka, Bangladesh.</p>
 
-✰ American Association of Bangladeshi Engineers and Architects Scholarship
-honor dateJan 2010  honor issuerAmerican Association of Bangladeshi Engineers and Architects
+✰ <strong style="color: blue;font-size:22px">Life Membership</strong>\
+**Bangladesh Red Crescent Society, Jan 2008*
+<p style="color: Gray;">Awarded the "Life Membership" in recognition of the voluntary participation and efforts in relief managements and distributions of Bangladesh Red Crescent Society during different natural calamities like hurricane and tornado.</p>
 
-honor descriptionReceived an award of 10,000BDT in recognition of strong academic performance in the undergraduate class at Bangladesh University of Engineering and Technology, Dhaka, Bangladesh.
 
-✰ Singapore Bangladesh Society Scholarship
-honor dateJan 2009  honor issuerSingapore Bangladesh Society
-
-honor descriptionReceived two awards totaling 12,000BDT in recognition of strong academic performance in the undergraduate class at Bangladesh University of Engineering and Technology, Dhaka, Bangladesh.
-
-✰ Life Membership
-honor dateJan 2008  honor issuerBangladesh Red Crescent Society
-
-honor descriptionAwarded the "Life Membership" in recognition of the voluntary participation and efforts in relief managements and distributions of Bangladesh Red Crescent Society during different natural calamities like hurricane and tornado outbreaks.
 ✰ Dean's List Award
 honor dateJan 2007  honor issuerBangladesh University of Engineering and Technology
 
