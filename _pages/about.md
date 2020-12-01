@@ -41,3 +41,13 @@ Before joining UBC, I completed M.Sc. and B.Sc. in Electrical and Electronic Eng
   Digital Signal Processing Research Lab, Bangladesh University of Engineering & Technology (BUET), Dhaka, Bangladesh 🇧🇩
 - **Software Engineer** (February 2011 - June 2011)\
   Samsung R&D Institute, Dhaka, Bangladesh 🇧🇩
+
+
+📚 <strong style="color: blue;font-size:24px">Selected Workshop/Training Attended</strong>
+
+- **Privacy and Information Security Fundamentals** 2019\
+  University of British Columbia, Vancouver, BC 🇨🇦
+- **Teaching Skills for Engineering Teaching Assistants** 2016\
+  University of British Columbia, Vancouver, BC 🇨🇦
+- **Preventing and Addressing Workplace Bullying and Harassment** 2014\
+  University of British Columbia, Vancouver, BC 🇨🇦
