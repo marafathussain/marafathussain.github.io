@@ -55,4 +55,4 @@ Before joining UBC, I completed M.Sc. and B.Sc. in Electrical and Electronic Eng
 🗳 <strong style="color: blue;font-size:24px">Elected Position Held</strong>
 
 - **Secretary** (May 2017 - April 2018)\
-  [Electrical and Computer Engineering Graduate Student Association (ECEGSA)](http://gsa.ece.ubc.ca/contact/past-executives/), UBC, Vancouver 🇨🇦
+  [Electrical and Computer Engineering Graduate Student Association (ECEGSA)](http://gsa.ece.ubc.ca/contact/past-executives/), UBC 🇨🇦
