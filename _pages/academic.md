@@ -39,7 +39,7 @@ Project title: COVID-19 diagnosis from chest X-ray images\
 2. **Yilin Shi**\
 Project title: COVID-19 diagnosis from CT scans
 
-✍🏻 <strong style="color: blue;font-size:22px">Review Experience</strong>
+📋 <strong style="color: blue;font-size:22px">Review Experience</strong>
 
 I have reviewing experiece for the following journals/proceedings:\
 📄 IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control\
