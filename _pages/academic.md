@@ -20,7 +20,7 @@ Conducted tutorials, invigilation, grading and laboratory demonstrations for the
 
 
 ✍🏻 <strong style="color: blue;font-size:22px">Senior Lecturer</strong>\
-[Eastern University, Dhaka, Bangladesh](http://www.easternuni.edu.bd/) (May 2015 - August 2015) 🇧🇩
+[Eastern University, Dhaka, Bangladesh](http://www.easternuni.edu.bd/) (May 2015 - Aug 2015) 🇧🇩
 
 Conducted lectures, invigilation, grading and laboratory demonstrations for the following courses:\
 📘 EEE 431: Microprocessor and Interfacing\
@@ -33,8 +33,18 @@ Conducted lectures, invigilation, grading and laboratory demonstrations for the 
 ✍🏻 <strong style="color: blue;font-size:22px">Supervisory Experience</strong>\
 [Simon Fraser University](https://www.sfu.ca/) (May 2020 - Aug 2020) 🇨🇦
 
-Supervised following masters intern students:
-- **Rohit Somasundaram**\
-  Project title: COVID-19 diagnosis from chest X-ray images
-- **Yilin Shi**\
-  Project title: COVID-19 diagnosis from CT scans
+Supervised following masters intern students:\
+1. **Rohit Somasundaram**\
+Project title: COVID-19 diagnosis from chest X-ray images\
+2. **Yilin Shi**\
+Project title: COVID-19 diagnosis from CT scans
+
+✍🏻 <strong style="color: blue;font-size:22px">Review Experience</strong>
+
+I have reviewing experiece for the following journals/proceedings:\
+📄 IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control\
+📄 IEEE Access\
+📄 Elsevier Ultrasonics Journal\
+📄 Elsevier Computers in Biology and Medicine Journal\
+📄 Springer Deep Learning in Medical Image Analysis 2019\
+📄 Springer Medical Image Computing and Computer Assisted Intervention 2019
