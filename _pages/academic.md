@@ -33,14 +33,13 @@ Conducted lectures, invigilation, grading and laboratory demonstrations for the 
 ✍🏻 <strong style="color: blue;font-size:22px">Supervisory Experience</strong>\
 [Simon Fraser University](https://www.sfu.ca/) (May 2020 - Aug 2020) 🇨🇦
 
-Supervised following masters intern students:\
+Supervised following masters intern students:
 1. **Rohit Somasundaram**\
-Project title: COVID-19 diagnosis from chest X-ray images\
+Project title: COVID-19 diagnosis from chest X-ray images
 2. **Yilin Shi**\
 Project title: COVID-19 diagnosis from CT scans
 
-📋 <strong style="color: blue;font-size:22px">Review Experience</strong>
-
+📋 <strong style="color: blue;font-size:22px">Review Experience</strong>\
 I have reviewing experiece for the following journals/proceedings:\
 📄 IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control\
 📄 IEEE Access\
