@@ -5,7 +5,7 @@ permalink: /academic/
 author_profile: true
 ---
 
-✍ <strong style="color: blue;font-size:22px">Graduate Teaching Assistant (GTA)</strong>\
+✍🏻 <strong style="color: blue;font-size:22px">Graduate Teaching Assistant (GTA)</strong>\
 [University of British Columbia, Vancouver](https://www.ubc.ca/) (Jan 2014 - Dec 2019) 🇨🇦
 
 Conducted tutorials, invigilation, grading and laboratory demonstrations for the following courses:\
@@ -19,7 +19,7 @@ Conducted tutorials, invigilation, grading and laboratory demonstrations for the
 📘 ELEC 211: Engineering Electromagnetics (Jan 2019)
 
 
-✍ <strong style="color: blue;font-size:22px">Senior Lecturer</strong>\
+✍🏻 <strong style="color: blue;font-size:22px">Senior Lecturer</strong>\
 [Eastern University, Dhaka, Bangladesh](http://www.easternuni.edu.bd/) (May 2015 - August 2015) 🇧🇩
 
 Conducted lectures, invigilation, grading and laboratory demonstrations for the following courses:\
@@ -29,3 +29,12 @@ Conducted lectures, invigilation, grading and laboratory demonstrations for the 
 📘 EEE 354: Measurement and Instrumentation Laboratory\
 📘 EEE 433: Solid State Devices\
 📘 EEE 340: Electronic Project Design
+
+✍🏻 <strong style="color: blue;font-size:22px">Supervisory Experience</strong>\
+[Simon Fraser University](https://www.sfu.ca/) (May 2020 - Aug 2020) 🇨🇦
+
+Supervised following masters intern students:
+- **Rohit Somasundaram**\
+  Project title: COVID-19 diagnosis from chest X-ray images
+- **Yilin Shi**\
+  Project title: COVID-19 diagnosis from CT scans
