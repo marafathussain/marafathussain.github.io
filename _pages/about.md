@@ -43,7 +43,7 @@ Before joining UBC, I completed M.Sc. and B.Sc. in Electrical and Electronic Eng
   Samsung R&D Institute, Dhaka, Bangladesh 🇧🇩
 
 
-📚 <strong style="color: blue;font-size:24px">Selected Workshop/Training Attended</strong>
+📚 <strong style="color: blue;font-size:24px">Selected Workshops/Trainings Attended</strong>
 
 - **Privacy and Information Security Fundamentals** 2019\
   University of British Columbia, Vancouver, BC 🇨🇦
@@ -51,3 +51,8 @@ Before joining UBC, I completed M.Sc. and B.Sc. in Electrical and Electronic Eng
   University of British Columbia, Vancouver, BC 🇨🇦
 - **Preventing and Addressing Workplace Bullying and Harassment** 2014\
   University of British Columbia, Vancouver, BC 🇨🇦
+
+🗳 <strong style="color: blue;font-size:24px">Elected Position Held</strong>
+
+- **Secretary** (May 2017 - April 2018)\
+  [Electrical and Computer Engineering Graduate Student Association (ECEGSA)](http://gsa.ece.ubc.ca/contact/past-executives/), UBC, Vancouver 🇨🇦
