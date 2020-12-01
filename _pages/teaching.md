@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Academic Duties"
 permalink: /teaching/
 author_profile: true
 ---
