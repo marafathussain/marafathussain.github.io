@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Academic Duties"
-permalink: /teaching/
+permalink: /academic/
 author_profile: true
 ---
 
