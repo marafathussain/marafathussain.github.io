@@ -83,7 +83,7 @@ author:
   name             : "Mohammad Arafat Hussain"
   avatar           : "Arafat_miccai.JPG"
   bio              : "Postdoc @SFU"
-  location         : "Vancouver, BC, Canada"
+  location         : # "Vancouver, BC, Canada"
   employer         : "Simon Fraser University"
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Mohammad+Arafat+Hussain"
   googlescholar    : "https://scholar.google.ca/citations?user=hFwvdQcAAAAJ&hl=en"
