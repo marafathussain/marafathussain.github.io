@@ -6,7 +6,7 @@ author_profile: true
 ---
 <h2 style="color: blue;">Journals Under Review</h2>
 
-1. **Hussain MA**, Hamarneh G, Garbi R.: ImHistNet: Deep Radiomics with Learnable Image Histograms for Renal Carcinoma Grading and Staging. Medical Image Analysis, 2020.
+1. **Hussain MA**, Hamarneh G, Garbi R.: ImHistNet: Deep Radiomics with Learnable Image Histograms for Renal Carcinoma Grading and Staging. Computerized Medical Imaging and Graphics, 2020.
 2. **Hussain MA**, Hamarneh G, Garbi R.: Segmentation-free Kidney Localization and Volume Estimation Using Mask-RCNN and FCN. IEEE Transaction on Medical Imaging, 2020. 
 
 <h2 style="color: blue;">Journal Papers</h2>
