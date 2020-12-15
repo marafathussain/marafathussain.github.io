@@ -59,10 +59,10 @@ Received two merit scholarships totaling 20,000 BDT/year for securing merit posi
 Boston Children’s Hospital & Harvard Medical School, 2020
 
 ✰ <strong style="color: blue;font-size:22px">Postdoctoral Fellowship Offer</strong>\
-Massachussetts General Hospital & Harvard Medical School, 2019 - Denied
+Massachussetts General Hospital & Harvard Medical School, 2019 - Declined
 
 ✰ <strong style="color: blue;font-size:22px">Postdoctoral Fellowship Offer</strong>\
-School of Medicine, Stanford University, 2019 - Denied
+School of Medicine, Stanford University, 2019 - Declined
 
 ✰ <strong style="color: blue;font-size:22px">DPhil Admission Offer</strong>\
-Department of Engineering, University of Oxford, 2015 - Denied
+Department of Engineering, University of Oxford, 2015 - Declined
