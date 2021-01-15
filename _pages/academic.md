@@ -14,6 +14,7 @@ Conducted tutorials, invigilation, grading and laboratory demonstrations for the
 📘 EECE 380: Electrical Engineering Design Studio (Jan 2015)\
 📘 CPEN 312: Digital Systems and Microcomputers (Jan 2016, 2017, 2018)\
 📘 CPEN/ELEC 481: Economic Analysis of Engineering Projects (May 2016)\
+📘 CPSC 340: Machine Learning and Data Mining (May 2017)\
 📘 ELEC 221: Signals and Systems (Sep 2016, 2017, 2018, 2019)\
 📘 APSC 160: Introduction to Computation in Engineering Design (May 2017, 2018, 2019, Sep 2017, Jan 2018)\
 📘 ELEC 211: Engineering Electromagnetics (Jan 2019)
