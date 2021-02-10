@@ -8,6 +8,8 @@ author_profile: true
 - <strong style="color: blue;font-size:20px">Learnable Image Histogram-based Deep Neural Network</strong>\
 I developed a learnable image histogram module in the convolutional neural network (CNN) framework for automatic kidney cancer grading and staging - this approach is the first, to our knowledge, that learns diffused textural features in an image, and it’s application in computed tomography (CT)-based cancer grading and staging could be a potential alternative to the invasive renal biopsy-based cancer grading and staging. [[P1]](http://ece.ubc.ca/~bisicl/papers/mahmiccai19.pdf), [[P2]](http://ece.ubc.ca/~bisicl/papers/mahmlmi19.pdf)
 
+![alt text](https://github.com/marafathussain/marafathussain.github.io/blob/master/images/imhistnet.png "Test")
+
 - <strong style="color: blue;font-size:20px">Multiple Instance Decision Aggregated CNN for Gene Mutation Prediction</strong>\
 I developed a CT-based multiple instance decision aggregated CNN approach for noninvasive determination of gene mutation in kidney cancer - this approach could be used as a potential alternative to the invasive renal biopsy-based whole-genome sequencing for gene mutation detection. [[P]](http://ece.ubc.ca/~bisicl/papers/Arafat_MICCAI18.pdf)
 
