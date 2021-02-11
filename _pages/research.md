@@ -4,7 +4,6 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-}
 img[src*='#center'] {
     display: block;
     margin: auto;
