@@ -20,7 +20,9 @@ I developed a CT-based multiple instance decision aggregated CNN approach for no
 <strong style="color: blue;font-size:20px">Mask-RCNN and Orthogonal Decision Aggregated CNN for Kidney Localization in CT</strong>\
 I developed a CNN-guided Mask-RCNN and an orthogonal decision aggregated CNN-based automatic kidney local- ization approach for the CT scans that enables the radiologists in rapid subsequent kidney functionality analysis in the clinical environment. [[P]](http://ece.ubc.ca/~bisicl/papers/Arafat_MICCAI17.pdf)
 
-- <strong style="color: blue;font-size:20px">Collage Image Representation in the Multiple Instances Learning Framework</strong>\
+![alt text](https://github.com/marafathussain/marafathussain.github.io/blob/master/images/gene_mutation.png?raw=true){:width="100%" style="padding:50px"}
+
+<strong style="color: blue;font-size:20px">Collage Image Representation in the Multiple Instances Learning Framework</strong>\
 I developed a collage image representation in the multiple instances learning framework, enabling the use of sparsely annotated data in 2D CNN, which is a computationally inexpensive alternative to the computationally expensive 3D CNN. [[P]](http://ece.ubc.ca/~bisicl/papers/Arafat_MLMI17.pdf)
 
 - <strong style="color: blue;font-size:20px">Segmentation-free Kidney Volume Estimation Using Machine Learning</strong>\
