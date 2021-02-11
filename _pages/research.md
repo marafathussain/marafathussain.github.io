@@ -50,7 +50,7 @@ I developed a 2D strain initialized surface growing approach for automatic bone 
 <strong style="color: blue;font-size:20px">Bone Detection in 2D Ultrasound</strong>\
 I developed a combined strain imaging and envelope signal power-based robust bone boundary detection approach for the 2D ultrasound. This elastography-based bone detection approach robust to false positives at fatty tissue layer. [[P1]](http://ece.ubc.ca/~bisicl/papers/CAOS2015.pdf), [[P2]](http://ece.ubc.ca/~bisicl/papers/MICCAI2014.pdf)
 
-![alt text](https://github.com/marafathussain/marafathussain.github.io/blob/master/images/strain_bone_2d.png?raw=true){:width="100%" style="padding:50px"}
+![alt text](https://github.com/marafathussain/marafathussain.github.io/blob/master/images/strain_bone_2d.png?raw=true){:width="75%" style="padding:50px"}
 
 - <strong style="color: blue;font-size:20px">Ultrasound Strain Imaging</strong>\
 I developed novel ultrasound strain imaging techniques using weighted nearest neighbors for accurate early breast cancer detection. [[P1]](http://ece.ubc.ca/~arafat/mypapers/mah2014a.pdf), [[P2]](http://ece.ubc.ca/~arafat/mypapers/mah2012a.pdf), [[P3]](http://ece.ubc.ca/~arafat/mypapers/mah2012b.pdf)
