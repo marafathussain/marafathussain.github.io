@@ -14,7 +14,7 @@ I developed a learnable image histogram module in the convolutional neural netwo
 I developed a CT-based multiple instance decision aggregated CNN approach for noninvasive determination of gene mutation in kidney cancer - this approach could be used as a potential alternative to the invasive renal biopsy-based whole-genome sequencing for gene mutation detection. [[P]](http://ece.ubc.ca/~bisicl/papers/Arafat_MICCAI18.pdf)
 
 <p align="center">
-<img src="https://github.com/marafathussain/marafathussain.github.io/blob/master/images/gene_mutation.png" width="750"><br><br>
+<img src="https://github.com/marafathussain/marafathussain.github.io/blob/master/images/gene_mutation.png" width="750px">
 </p>
 
 - <strong style="color: blue;font-size:20px">Mask-RCNN and Orthogonal Decision Aggregated CNN for Kidney Localization in CT</strong>\
