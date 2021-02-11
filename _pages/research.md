@@ -32,10 +32,13 @@ I developed two techniques for segmentation-free kidney volume estimation using 
 
 ![alt text](https://github.com/marafathussain/marafathussain.github.io/blob/master/images/vol.png?raw=true){:width="75%" style="padding:50px"}
 
-- <strong style="color: blue;font-size:20px">Compressively-sensed Ultrasound RF Data Recontruction</strong>\
+<strong style="color: blue;font-size:20px">Compressively-sensed Ultrasound RF Data Recontruction</strong>\
 I developed a combined Curvelets and WaveAtoms basis-based compressively sensed ultrasound RF data reconstruction approach. [[P]](http://ece.ubc.ca/~arafat/mypapers/mah2015a.pdf)
 
-- <strong style="color: blue;font-size:20px">Geometric Diffusion Filter</strong>\
+![alt text](https://github.com/marafathussain/marafathussain.github.io/blob/master/images/cs_us.png?raw=true){:width="90%" style="padding:50px"}
+
+
+<strong style="color: blue;font-size:20px">Geometric Diffusion Filter</strong>\
 I developed a near real-time 3D geometric non-linear diffusion filter for the CT/MR image denoising. [[P]](http://ece.ubc.ca/~arafat/mypapers/mah2015b.pdf)
 
 - <strong style="color: blue;font-size:20px">2D Strain-initialized Surface Growing for Bone Detection in 3D Ultrasound</strong>\
