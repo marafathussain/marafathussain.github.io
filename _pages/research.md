@@ -37,9 +37,10 @@ I developed a combined Curvelets and WaveAtoms basis-based compressively sensed 
 
 ![alt text](https://github.com/marafathussain/marafathussain.github.io/blob/master/images/cs_us.png?raw=true){:width="90%" style="padding:50px"}
 
-
 <strong style="color: blue;font-size:20px">Geometric Diffusion Filter</strong>\
 I developed a near real-time 3D geometric non-linear diffusion filter for the CT/MR image denoising. [[P]](http://ece.ubc.ca/~arafat/mypapers/mah2015b.pdf)
+
+![alt text](https://github.com/marafathussain/marafathussain.github.io/blob/master/images/GDF.png?raw=true){:width="100%" style="padding:50px"}
 
 - <strong style="color: blue;font-size:20px">2D Strain-initialized Surface Growing for Bone Detection in 3D Ultrasound</strong>\
 I developed a 2D strain initialized surface growing approach for automatic bone surface delineation in 3D ultrasound. This method could be used as an alternative to the time-inefficient manual bone delineation in ultrasound-guided mini- mally invasive surgery. [[P]](http://ece.ubc.ca/~bisicl/papers/Arafat_UMB17.pdf)
