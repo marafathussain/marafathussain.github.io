@@ -57,5 +57,7 @@ I developed novel ultrasound strain imaging techniques using weighted nearest ne
 
 ![alt text](https://github.com/marafathussain/marafathussain.github.io/blob/master/images/strain.png?raw=true){:width="75%" style="padding:50px"}
 
-- <strong style="color: blue;font-size:20px">Ultrasound Attenuation Estimation</strong>\
+<strong style="color: blue;font-size:20px">Ultrasound Attenuation Estimation</strong>\
 I developed two novel ultrasound attenuation estimation technique for accurate breast carcinoma analysis. [[P]](http://ece.ubc.ca/~arafat/mypapers/mah2013a.pdf)
+
+![alt text](https://github.com/marafathussain/marafathussain.github.io/blob/master/images/attenuation.png?raw=true){:width="100%" style="padding:50px"}
