@@ -42,8 +42,10 @@ I developed a near real-time 3D geometric non-linear diffusion filter for the CT
 
 ![alt text](https://github.com/marafathussain/marafathussain.github.io/blob/master/images/GDF.png?raw=true){:width="100%" style="padding:50px"}
 
-- <strong style="color: blue;font-size:20px">2D Strain-initialized Surface Growing for Bone Detection in 3D Ultrasound</strong>\
+<strong style="color: blue;font-size:20px">2D Strain-initialized Surface Growing for Bone Detection in 3D Ultrasound</strong>\
 I developed a 2D strain initialized surface growing approach for automatic bone surface delineation in 3D ultrasound. This method could be used as an alternative to the time-inefficient manual bone delineation in ultrasound-guided mini- mally invasive surgery. [[P]](http://ece.ubc.ca/~bisicl/papers/Arafat_UMB17.pdf)
+
+![alt text](https://github.com/marafathussain/marafathussain.github.io/blob/master/images/strain_bone.png?raw=true){:width="100%" style="padding:50px"}
 
 - <strong style="color: blue;font-size:20px">Bone Detection in 2D Ultrasound</strong>\
 I developed a combined strain imaging and envelope signal power-based robust bone boundary detection approach for the 2D ultrasound. This elastography-based bone detection approach robust to false positives at fatty tissue layer. [[P1]](http://ece.ubc.ca/~bisicl/papers/CAOS2015.pdf), [[P2]](http://ece.ubc.ca/~bisicl/papers/MICCAI2014.pdf)
