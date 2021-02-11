@@ -27,8 +27,10 @@ I developed a collage image representation in the multiple instances learning fr
 
 ![alt text](https://github.com/marafathussain/marafathussain.github.io/blob/master/images/collage.png?raw=true){:width="80%" style="padding:50px"}
 
-- <strong style="color: blue;font-size:20px">Segmentation-free Kidney Volume Estimation Using Machine Learning</strong>\
+<strong style="color: blue;font-size:20px">Segmentation-free Kidney Volume Estimation Using Machine Learning</strong>\
 I developed two techniques for segmentation-free kidney volume estimation using dual regression forests, CNN, and FCN. These methods are two potential and more accurate alternatives to the manual ellipsoid fitting-based kidney volume estimation approach typically used in the clinical environment. Our methods also bypass the computationally expensive segmentation procedure altogether. [[P1]](http://ece.ubc.ca/~bisicl/papers/Arafat_MICCAI17.pdf), [[P2]](http://ece.ubc.ca/~bisicl/papers/MLMI2016.pdf)
+
+![alt text](https://github.com/marafathussain/marafathussain.github.io/blob/master/images/vol.png?raw=true){:width="75%" style="padding:50px"}
 
 - <strong style="color: blue;font-size:20px">Compressively-sensed Ultrasound RF Data Recontruction</strong>\
 I developed a combined Curvelets and WaveAtoms basis-based compressively sensed ultrasound RF data reconstruction approach. [[P]](http://ece.ubc.ca/~arafat/mypapers/mah2015a.pdf)
