@@ -42,6 +42,7 @@ Project title: COVID-19 diagnosis from CT scans
 
 📋 <strong style="color: blue;font-size:22px">Review Experience</strong>\
 I have reviewing experiece for the following journals/proceedings:\
+📄 IEEE Transactions on Neural Networks and Learning Systems\
 📄 IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control\
 📄 IEEE Access\
 📄 Elsevier Ultrasonics Journal\
