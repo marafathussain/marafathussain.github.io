@@ -18,7 +18,7 @@ I developed a CT-based multiple instance decision aggregated CNN approach for no
 
 
 🔍 <strong style="color: blue;font-size:20px">Mask-RCNN and Orthogonal Decision Aggregated CNN for Kidney Localization in CT</strong>\
-I developed a CNN-guided Mask-RCNN and an orthogonal decision aggregated CNN-based automatic kidney local- ization approach for the CT scans that enables the radiologists in rapid subsequent kidney functionality analysis in the clinical environment. [[Paper]](http://ece.ubc.ca/~bisicl/papers/Arafat_MICCAI17.pdf)
+I developed a CNN-guided Mask-RCNN and an orthogonal decision aggregated CNN-based automatic kidney local- ization approach for the CT scans that enables the radiologists in rapid subsequent kidney functionality analysis in the clinical environment. [[Paper-1]](http://ece.ubc.ca/~bisicl/papers/Arafat_MICCAI17.pdf)[[Paper-2]](https://www2.cs.sfu.ca/~hamarneh/ecopy/tmi2021.pdf)
 
 ![alt text](https://github.com/marafathussain/marafathussain.github.io/blob/master/images/localization.png?raw=true){:width="100%" style="padding:50px"}
 
