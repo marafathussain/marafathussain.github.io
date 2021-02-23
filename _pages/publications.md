@@ -43,7 +43,7 @@ author_profile: true
 
 <h2 style="color: blue;">Theses</h2>
 
-1. **Hussain MA**.: Volumetric Image-based Supervised Learning for Renal Cancer Detection and Analysis. Ph.D., UBC, 2020. Supervisor: Prof. Rafeef Garbi.
-2. **Hussain MA**.: Robust Bone Detection in Ultrasound Using Combined Strain Imaging and Envelope Signal Power Detection. M.A.Sc., UBC, 2015. Supervisors: Prof. Rafeef Garbi & Prof. Antony J. Hodgson.
-3. **Hussain MA**.: Average Strain Estimation for Ultrasound Elastography Using Exponentially Weighted Nearest Neighbors. M.Sc., BUET, 2013. Supervisor: Prof. Md Kamrul Hasan.
-4. **Hussain MA** and Islam, MT (Equal Contribution): Ultrasound Strain Imaging in Wavelet Domain. B.Sc., BUET, 2011. Supervisor: Prof. Md Kamrul Hasan.
+1. **Hussain MA**.: Volumetric Image-based Supervised Learning for Renal Cancer Detection and Analysis. Ph.D., UBC, 2020. Supervisor: Prof. Rafeef Garbi. [![Foo](https://github.com/marafathussain/marafathussain.github.io/blob/master/images/pdf4.svg?raw=true){:width="2%"}](https://open.library.ubc.ca/media/download/pdf/24/1.0389786/4)
+2. **Hussain MA**.: Robust Bone Detection in Ultrasound Using Combined Strain Imaging and Envelope Signal Power Detection. M.A.Sc., UBC, 2015. Supervisors: Prof. Rafeef Garbi & Prof. Antony J. Hodgson. [![Foo](https://github.com/marafathussain/marafathussain.github.io/blob/master/images/pdf4.svg?raw=true){:width="2%"}](https://open.library.ubc.ca/media/download/pdf/24/1.0166292/3)
+3. **Hussain MA**.: Average Strain Estimation for Ultrasound Elastography Using Exponentially Weighted Nearest Neighbors. M.Sc., BUET, 2013. Supervisor: Prof. Md Kamrul Hasan. [![Foo](https://github.com/marafathussain/marafathussain.github.io/blob/master/images/pdf4.svg?raw=true){:width="2%"}](http://lib.buet.ac.bd:8080/xmlui/bitstream/handle/123456789/3451/Full%20Thesis.pdf?sequence=1&isAllowed=y)
+4. **Hussain MA** and Islam, MT (Equal Contribution): Ultrasound Strain Imaging in Wavelet Domain. B.Sc., BUET, 2011. Supervisor: Prof. Md Kamrul Hasan. [![Foo](https://github.com/marafathussain/marafathussain.github.io/blob/master/images/pdf4.svg?raw=true){:width="2%"}](https://app.box.com/s/4th0e1mjkhl0orp48kg3aydoz8yg2gea)
