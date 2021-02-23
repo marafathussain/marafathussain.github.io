@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 🔍 <strong style="color: blue;font-size:20px">Learnable Image Histogram-based Deep Neural Network</strong>\
-I developed a learnable image histogram module in the convolutional neural network (CNN) framework for automatic kidney cancer grading and staging - this approach is the first, to our knowledge, that learns diffused textural features in an image, and it’s application in computed tomography (CT)-based cancer grading and staging could be a potential alternative to the invasive renal biopsy-based cancer grading and staging. [[Paper-1]](http://ece.ubc.ca/~bisicl/papers/mahmiccai19.pdf), [[Paper-2]](http://ece.ubc.ca/~bisicl/papers/mahmlmi19.pdf) ![alt text](https://github.com/marafathussain/marafathussain.github.io/blob/master/images/pdf-svg.svg?raw=true)
+I developed a learnable image histogram module in the convolutional neural network (CNN) framework for automatic kidney cancer grading and staging - this approach is the first, to our knowledge, that learns diffused textural features in an image, and it’s application in computed tomography (CT)-based cancer grading and staging could be a potential alternative to the invasive renal biopsy-based cancer grading and staging. [[Paper-1]](http://ece.ubc.ca/~bisicl/papers/mahmiccai19.pdf), [[Paper-2]](http://ece.ubc.ca/~bisicl/papers/mahmlmi19.pdf) ![alt text](https://github.com/marafathussain/marafathussain.github.io/blob/master/images/pdf-svg.svg?raw=true){:width="5%"}
 
 ![alt text](https://github.com/marafathussain/marafathussain.github.io/blob/master/images/imhistnet.png?raw=true){:width="90%" style="padding:50px"}
 
