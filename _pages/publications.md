@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<h2 style="color: blue;">Journals Under Review</h2>
+<h2 style="color: blue;">Journal Under Review</h2>
 
 1. **Hussain MA**, Hamarneh G, Garbi R.: ImHistNet: Deep Radiomics with Learnable Image Histograms for Renal Carcinoma Grading and Staging. Computerized Medical Imaging and Graphics, 2020. 
 
