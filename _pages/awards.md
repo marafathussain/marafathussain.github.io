@@ -25,10 +25,6 @@ Received a full scholarship of 22,000CAD/year for 4 years from the department of
 **Medical Image Computing and Computer Assisted Intervention Society, Oct 2019**\
 Received an award of 750 US$ to attend the premier conference, the International Conference on Medical Image Computing and Computer Assisted Interventions (MICCAI), held in Boston, MA.
 
-✰ <strong style="color: blue;font-size:22px">Graduate Research Assistantship</strong>\
-**The University of British Columbia, 2013-2015**\
-Received a full scholarship of 18,000CAD/year for 2 years from the department of Electrical and Computer Engineering, UBC. This fellowship funded the Master of Applied Science (MASc) research in Biomedical Engineering at the University of British Columbia, Vancouver, Canada.
-
 ✰ <strong style="color: blue;font-size:22px">Graduate Support Initiative</strong>\
 **The University of British Columbia, May 2013, Sep 2015, Sep 2016**\
 Award of 4,000 CA$ offered to graduate students demonstrating evidence of strong academic performance throughout the university studies.
