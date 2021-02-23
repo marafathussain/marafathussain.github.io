@@ -56,3 +56,5 @@ Before joining UBC, I completed M.Sc. and B.Sc. in Electrical and Electronic Eng
 
 - **Secretary** (May 2017 - April 2018)\
   [Electrical and Computer Engineering Graduate Student Association (ECEGSA)](http://gsa.ece.ubc.ca/contact/past-executives/), UBC
+  
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=marafathussain.marafathussain.github.io)
