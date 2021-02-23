@@ -23,7 +23,7 @@ Before joining UBC, I completed M.Sc. and B.Sc. in Electrical and Electronic Eng
   M.Sc. in Electrical and Electronic Engineering, 2013\
   B.Sc. in Electrical and Electronic Engineering, 2011
   
-👷🏼 <strong style="color: blue;font-size:24px">Employment History</strong>
+👷🏼 <strong style="color: blue;font-size:24px">Professional Experience</strong>
 
 - **Postdoctoral Research Associate** (April 2020 - Present)\
   Simon Fraser University, Burnaby, BC
