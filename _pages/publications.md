@@ -10,7 +10,7 @@ author_profile: true
 
 <h2 style="color: blue;">Journal Papers</h2>
 
-1. **Hussain MA**, Hamarneh G, Garbi R.: Cascaded Localization Regression Neural Nets for Kidney Localization and Segmentation-free Volume Estimation. IEEE Transaction on Medical Imaging, 2021. [Accepted] 
+1. **Hussain MA**, Hamarneh G, Garbi R.: Cascaded Localization Regression Neural Nets for Kidney Localization and Segmentation-free Volume Estimation. IEEE Transaction on Medical Imaging, 2021. [Accepted] [![Foo](https://github.com/marafathussain/marafathussain.github.io/blob/master/images/pdf2.svg?raw=true){:width="3%"}](https://www2.cs.sfu.ca/~hamarneh/ecopy/tmi2021.pdf)
 2. **Hussain MA**, Hodgson AJ, Abugharbieh R.: Strain-initialized Robust Bone Surface Detection in 3-D Ultrasound. Ultrasound in Medicine & Biology, 43(3), pp. 648-661, 2017. 
 3. **Hussain MA**, Alam F, Rupa SA, Awwal R, Lee SY, Hasan MK.: Lesion Edge Preserved Direct Average Strain Estimation for Ultrasound Elasticity Imaging. Ultrasonics, 54(1), pp. 137-146, 2014.
 4. Hasan MK, **Hussain MA**, Ara SR, Lee SY, Alam SK.: Using Nearest Neighbors for Accurate Estimation of Ultrasonic Attenuation in the Spectral Domain. IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control, 60(6), pp. 1098-1114, 2013. 
