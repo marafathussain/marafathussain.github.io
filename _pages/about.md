@@ -26,7 +26,7 @@ Before joining UBC, I completed M.Sc. and B.Sc. in Electrical and Electronic Eng
 [Oct 2019] Presented our paper on learnable image histogram for kidney cancer staging in MLMI 2019\
 [Sep 2019] Invited talk at the Centre for Molecular Medicine and Therapeutics, UBC, Vancouver --->
 
-👨🏻‍🎓 <strong style="color:RoyalBlue;font-size:22px">Education</strong>
+👨🏻‍🎓 <strong style="color:DodgerBlue ;font-size:22px">Education</strong>
 
 - [University of British Columbia (UBC), Vancouver](https://www.ubc.ca/)\
   Ph.D. in Biomedical Engineering, 2020\
@@ -36,7 +36,7 @@ Before joining UBC, I completed M.Sc. and B.Sc. in Electrical and Electronic Eng
   M.Sc. in Electrical and Electronic Engineering, 2013\
   B.Sc. in Electrical and Electronic Engineering, 2011
   
-👷🏼 <strong style="color:RoyalBlue;font-size:22px">Professional Experience</strong>
+👷🏼 <strong style="color:DodgerBlue ;font-size:22px">Professional Experience</strong>
 
 - **Postdoctoral Research Associate** (April 2020 - Present)\
   Simon Fraser University, Burnaby, BC
@@ -56,7 +56,7 @@ Before joining UBC, I completed M.Sc. and B.Sc. in Electrical and Electronic Eng
   Samsung R&D Institute, Dhaka, Bangladesh
 
 
-📚 <strong style="color:RoyalBlue;font-size:22px">Selected Workshops/Trainings Attended</strong>
+📚 <strong style="color:DodgerBlue ;font-size:22px">Selected Workshops/Trainings Attended</strong>
 
 - **Privacy and Information Security Fundamentals** 2019\
   University of British Columbia, Vancouver, BC
@@ -65,7 +65,7 @@ Before joining UBC, I completed M.Sc. and B.Sc. in Electrical and Electronic Eng
 - **Preventing and Addressing Workplace Bullying and Harassment** 2014\
   University of British Columbia, Vancouver, BC
 
-🗳 <strong style="color:RoyalBlue;font-size:22px">Elected Position Held</strong>
+🗳 <strong style="color:DodgerBlue ;font-size:22px">Elected Position Held</strong>
 
 - **Secretary** (May 2017 - April 2018)\
   [Electrical and Computer Engineering Graduate Student Association (ECEGSA)](http://gsa.ece.ubc.ca/contact/past-executives/), UBC
