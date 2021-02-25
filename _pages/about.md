@@ -14,6 +14,14 @@ I completed my M.A.Sc. and Ph.D. in Biomedical Engineering under the supervision
 Before joining UBC, I completed M.Sc. and B.Sc. in Electrical and Electronic Engineering at [Bangladesh University of Engineering & Technology (BUET)](https://www.buet.ac.bd/web/). During my M.Sc., I worked as a Research Engineer under the supervision of [Prof. Md Kamrul Hasan](http://khasan.buet.ac.bd/), and developed novel ultrasound elastography techniques for breast cancer detection. I also worked as a Software Engineer in the [Samsung R&D Institute Bangladesh](https://research.samsung.com/srbd) after completing my B.Sc. degree.
 
 :pushpin: <strong style="color: blue;font-size:24px">News</strong>
+- [Jan 2021] Paper on "Cascaded Regression Neural Nets for Kidney Localization and Segmentation-free Volume Estimation" has been accepted in IEEE Transaction on Medical Imaging
+- [Apr 2020] Started PostDoc at the [Medical Image Analysis Lab (MIAL)](https://www.medicalimageanalysis.com/) of [Prof. Ghassan Hamarneh](https://www.sfu.ca/computing/people/faculty/ghassanhamarneh.html) at [Simon Fraser University](https://www.sfu.ca/computing.html)
+- [Mar 2020] Defended Ph.D. thesis at the University of British Columbia under the supervision of [Prof. Rafeef Garbi](https://bisicl.ece.ubc.ca/rafeef/)
+- [Nov 2019] Invited talk at the Center for Advanced Medical Computing and Analysis, Harvard University, Boston, MA
+- [Oct 2019] Invited talk at the Division of Developmental-Behavioral Pediatrics, Stanford University, Palo Alto, CA
+- [Oct 2019] Presented our paper on learnable image histogram for kidney cancer grading in MICCAI 2019
+- [Oct 2019] Presented our paper on learnable image histogram for kidney cancer staging in MLMI 2019
+- [Sep 2019] Invited talk at the Centre for Molecular Medicine and Therapeutics, UBC, Vancouver
 
 👨🏻‍🎓 <strong style="color: blue;font-size:24px">Education</strong>
 
