@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Postdoctoral Research Associate in the [Medical Image Analysis Lab (MIAL)](https://www.medicalimageanalysis.com/) of [Prof. Ghassan Hamarneh](https://www.sfu.ca/computing/people/faculty/ghassanhamarneh.html) at [Simon Fraser University](https://www.sfu.ca/computing.html), Burnaby, BC, Canada. My research interests lie in machine/deep learning and its application to medical image analysis. 
+I am currently a Postdoctoral Research Associate in the [Medical Image Analysis Lab (MIAL)](https://www.medicalimageanalysis.com/?target=_blank) of [Prof. Ghassan Hamarneh](https://www.sfu.ca/computing/people/faculty/ghassanhamarneh.html) at [Simon Fraser University](https://www.sfu.ca/computing.html), Burnaby, BC, Canada. My research interests lie in machine/deep learning and its application to medical image analysis. 
 
 I completed my M.A.Sc. and Ph.D. in Biomedical Engineering under the supervision of [Prof. Rafeef Garbi](https://bisicl.ece.ubc.ca/rafeef/) at the [University of British Columbia (UBC)](https://bisicl.ece.ubc.ca/), Vancouver. In my Ph.D. project, I primarily focused on kidney cancer detection and analysis in CT using deep learning. My M.A.Sc. project, on the other hand, focused on robust bone boundary localization in ultrasound to facilitate minimally invasive ultrasound-guided orthopedic surgery.
 
