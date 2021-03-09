@@ -4,11 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<h2 style="color:DodgerBlue;font-size:22px">Journal Under Review</h2>
+<h2 style="color:#f03d33;font-size:22px">Journal Under Review</h2>
 
 1. **Hussain MA**, Hamarneh G, Garbi R.: ImHistNet: Deep Radiomics with Learnable Image Histograms for Renal Carcinoma Grading and Staging. Computerized Medical Imaging and Graphics, 2020. 
 
-<h2 style="color:DodgerBlue;font-size:22px">Journal Papers</h2>
+<h2 style="color:#f03d33;font-size:22px">Journal Papers</h2>
 
 1. **Hussain MA**, Hamarneh G, Garbi R.: Cascaded Localization Regression Neural Nets for Kidney Localization and Segmentation-free Volume Estimation. IEEE Transaction on Medical Imaging, 2021. [Accepted] [![Foo](https://github.com/marafathussain/marafathussain.github.io/blob/master/images/pdf4.svg?raw=true){:width="2%"}](https://www2.cs.sfu.ca/~hamarneh/ecopy/tmi2021.pdf)
 2. **Hussain MA**, Hodgson AJ, Abugharbieh R.: Strain-initialized Robust Bone Surface Detection in 3-D Ultrasound. Ultrasound in Medicine & Biology, 43(3), pp. 648-661, 2017. [![Foo](https://github.com/marafathussain/marafathussain.github.io/blob/master/images/pdf4.svg?raw=true){:width="2%"}](http://ece.ubc.ca/~bisicl/papers/Arafat_UMB17.pdf)
@@ -17,7 +17,7 @@ author_profile: true
 5. **Hussain MA**, Anas EM, Alam SK, Lee SY, Hasan MK.: Direct and Gradient-based Average Strain Estimation by Using Weighted Nearest Neighbor Cross-correlation Peaks. IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control, 59(8), pp. 1713-1728, 2012. [![Foo](https://github.com/marafathussain/marafathussain.github.io/blob/master/images/pdf4.svg?raw=true){:width="2%"}](http://ece.ubc.ca/~arafat/mypapers/mah2012a.pdf)
 6. **Hussain MA**, Alam SK, Lee SY, Hasan MK.: Robust Strain-estimation Algorithm Using Combined Radiofrequency and Envelope Cross-correlation with Diffusion Filtering. Ultrasonic Imaging, 34(2), pp. 93-109, 2012. [![Foo](https://github.com/marafathussain/marafathussain.github.io/blob/master/images/pdf4.svg?raw=true){:width="2%"}](http://ece.ubc.ca/~arafat/mypapers/mah2012b.pdf)
 
-<h2 style="color:DodgerBlue;font-size:22px">Conference Papers</h2>
+<h2 style="color:#f03d33;font-size:22px">Conference Papers</h2>
 
 1. **Hussain MA**, Hamarneh G, Garbi R.: ImHistNet: Learnable Image Histogram Based DNN with Application to Non-invasive Determination of Carcinoma Grades in CT Scans. International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), pp. 130-138, 2019, Shenzhen, China. [![Foo](https://github.com/marafathussain/marafathussain.github.io/blob/master/images/pdf4.svg?raw=true){:width="2%"}](http://ece.ubc.ca/~bisicl/papers/mahmiccai19.pdf)
 2. **Hussain MA**, Hamarneh G, Garbi R.: Renal Cell Carcinoma Staging with Learnable Image Histogram-based Deep Neural Network. International Workshop on Machine Learning in Medical Imaging (MLMI), pp 533-540, 2019, Shenzhen, China. [![Foo](https://github.com/marafathussain/marafathussain.github.io/blob/master/images/pdf4.svg?raw=true){:width="2%"}](http://ece.ubc.ca/~bisicl/papers/mahmlmi19.pdf)
@@ -31,17 +31,17 @@ author_profile: true
 10. **Hussain MA**, Hodgson AJ, Abugharbieh R.: Robust Bone Detection in Ultrasound Using Combined Strain Imaging and Envelope Signal Power Detection. International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), pp. 356-363, 2014, Boston, MA. [![Foo](https://github.com/marafathussain/marafathussain.github.io/blob/master/images/pdf4.svg?raw=true){:width="2%"}](http://ece.ubc.ca/~bisicl/papers/MICCAI2014.pdf)
 11. Kabir HM, Alam SB, Azam MI, **Hussain MA**, Sazzad AR, Sakib MN, Matin MA.: Non-linear Down-sampling and Signal Reconstruction, Without Folding. 4th UKSim European Symposium on Computer Modeling and Simulation, pp. 142-146, 2010, Pisa, Italy. [![Foo](https://github.com/marafathussain/marafathussain.github.io/blob/master/images/pdf4.svg?raw=true){:width="2%"}](http://ece.ubc.ca/~arafat/mypapers/mah2010.pdf)
 
-<h2 style="color:DodgerBlue;font-size:22px">Peer-reviewed Abstracts</h2>
+<h2 style="color:#f03d33;font-size:22px">Peer-reviewed Abstracts</h2>
 
 1. **Hussain MA**, Anas EM, Alam SK, Lee SY, Hasan MK.: Improved Elasticity Imaging by Maximizing the Weighted Peaks of the Nearest Neighbor Cross-correlation Function. 2012 American Institution of Ultrasound in Medicine (AIUM) Annual Convention and Preconvention Program, Phoenix, Arizona. March 29 - April 1, 2012.
 2. **Hussain MA**, Alam SK, Lee SY, Hasan MK.: A Robust Strain Estimation Algorithm Using Combined Radio-frequency and Envelope Cross-correlation. Ultrasonic Imaging and Tissue Characterization Symposium, Rosslyn, Virginia. June 11-13, 2012.
 
-<h2 style="color:DodgerBlue;font-size:22px">Non Peer-reviewed Abstracts</h2>
+<h2 style="color:#f03d33;font-size:22px">Non Peer-reviewed Abstracts</h2>
 
 1. **Hussain MA**, Hamarneh G, Garbi R.: Kidney Cancer Detection and Analysis from CT Using Deep Learning. 2nd Annual School of Biomedical Engineering Symposium, 2019, Vancouver, Canada.
 2. **Hussain MA**, Hamarneh G, Garbi R.: Learnable Image Histogram Based Deep Neural Network with Application to Noninvasive Determination of Renal Cell Carcinoma Grades in CT Scans. Research Day: The Future of Health Symposium, Nov 8, 2019, Vancouver, Canada. 
 
-<h2 style="color:DodgerBlue;font-size:22px">Theses</h2>
+<h2 style="color:#f03d33;font-size:22px">Theses</h2>
 
 1. **Hussain MA**.: Volumetric Image-based Supervised Learning for Renal Cancer Detection and Analysis. Ph.D., UBC, 2020. Supervisor: Prof. Rafeef Garbi. [![Foo](https://github.com/marafathussain/marafathussain.github.io/blob/master/images/pdf4.svg?raw=true){:width="2%"}](https://open.library.ubc.ca/media/download/pdf/24/1.0389786/4)
 2. **Hussain MA**.: Robust Bone Detection in Ultrasound Using Combined Strain Imaging and Envelope Signal Power Detection. M.A.Sc., UBC, 2015. Supervisors: Prof. Rafeef Garbi & Prof. Antony J. Hodgson. [![Foo](https://github.com/marafathussain/marafathussain.github.io/blob/master/images/pdf4.svg?raw=true){:width="2%"}](https://open.library.ubc.ca/media/download/pdf/24/1.0166292/3)
