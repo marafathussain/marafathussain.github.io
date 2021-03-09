@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ✍🏻 <strong style="color:#f03d33;font-size:22px">Graduate Teaching Assistant (GTA)</strong>\
-[University of British Columbia, Vancouver](https://www.ubc.ca/) (Jan 2014 - Dec 2019)
+[University of British Columbia, Vancouver](https://www.ubc.ca/){:target="_blank"} (Jan 2014 - Dec 2019)
 
 Conducted tutorials, invigilation, grading and laboratory demonstrations for the following courses:\
 📘 EECE 269: Signals and Systems (Jan 2014)\
@@ -21,7 +21,7 @@ Conducted tutorials, invigilation, grading and laboratory demonstrations for the
 
 
 ✍🏻 <strong style="color:#f03d33;font-size:22px">Senior Lecturer</strong>\
-[Eastern University, Dhaka, Bangladesh](http://www.easternuni.edu.bd/) (May 2015 - Aug 2015)
+[Eastern University, Dhaka, Bangladesh](http://www.easternuni.edu.bd/){:target="_blank"} (May 2015 - Aug 2015)
 
 Conducted lectures, invigilation, grading and laboratory demonstrations for the following courses:\
 📘 EEE 431: Microprocessor and Interfacing\
@@ -32,7 +32,7 @@ Conducted lectures, invigilation, grading and laboratory demonstrations for the 
 📘 EEE 340: Electronic Project Design
 
 ✍🏻 <strong style="color:#f03d33;font-size:22px">Supervisory Experience</strong>\
-[Simon Fraser University](https://www.sfu.ca/) (May 2020 - Aug 2020)
+[Simon Fraser University](https://www.sfu.ca/){:target="_blank"} (May 2020 - Aug 2020)
 
 Supervised following masters intern students:
 1. **Rohit Somasundaram**\
