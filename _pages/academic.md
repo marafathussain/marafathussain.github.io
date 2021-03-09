@@ -5,7 +5,7 @@ permalink: /academic/
 author_profile: true
 ---
 
-✍🏻 <strong style="color:DodgerBlue;font-size:22px">Graduate Teaching Assistant (GTA)</strong>\
+✍🏻 <strong style="color:#f03d33;font-size:22px">Graduate Teaching Assistant (GTA)</strong>\
 [University of British Columbia, Vancouver](https://www.ubc.ca/) (Jan 2014 - Dec 2019)
 
 Conducted tutorials, invigilation, grading and laboratory demonstrations for the following courses:\
@@ -20,7 +20,7 @@ Conducted tutorials, invigilation, grading and laboratory demonstrations for the
 📘 ELEC 211: Engineering Electromagnetics (Jan 2019)
 
 
-✍🏻 <strong style="color:DodgerBlue;font-size:22px">Senior Lecturer</strong>\
+✍🏻 <strong style="color:#f03d33;font-size:22px">Senior Lecturer</strong>\
 [Eastern University, Dhaka, Bangladesh](http://www.easternuni.edu.bd/) (May 2015 - Aug 2015)
 
 Conducted lectures, invigilation, grading and laboratory demonstrations for the following courses:\
@@ -31,7 +31,7 @@ Conducted lectures, invigilation, grading and laboratory demonstrations for the 
 📘 EEE 433: Solid State Devices\
 📘 EEE 340: Electronic Project Design
 
-✍🏻 <strong style="color:DodgerBlue;font-size:22px">Supervisory Experience</strong>\
+✍🏻 <strong style="color:#f03d33;font-size:22px">Supervisory Experience</strong>\
 [Simon Fraser University](https://www.sfu.ca/) (May 2020 - Aug 2020)
 
 Supervised following masters intern students:
@@ -40,7 +40,7 @@ Project title: COVID-19 diagnosis from chest X-ray images
 2. **Yilin Shi**\
 Project title: COVID-19 diagnosis from CT scans
 
-📋 <strong style="color:DodgerBlue;font-size:22px">Review Experience</strong>\
+📋 <strong style="color:#f03d33;font-size:22px">Review Experience</strong>\
 I have reviewing experiece for the following journals/proceedings:\
 📄 IEEE Transactions on Neural Networks and Learning Systems\
 📄 IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control\
