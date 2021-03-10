@@ -6,7 +6,7 @@
    Typography
    ========================================================================== */
 
-$doc-font-size              : 11;
+$doc-font-size              : 16;
 
 /* paragraph indention */
 $paragraph-indent           : false; // true, false (default)
@@ -19,8 +19,8 @@ $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
-//$helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
-$helvetica                  : Helvetica, "Helvetica Neue Light";
+$helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
+//$helvetica                  : Helvetica, "Helvetica Neue Light";
 
 /* serif typefaces */
 $georgia                    : Georgia, serif;
@@ -29,13 +29,13 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-//$global-font-family         : $sans-serif;
-//$header-font-family         : $sans-serif;
-//$caption-font-family        : $serif;
+$global-font-family         : $sans-serif;
+$header-font-family         : $sans-serif;
+$caption-font-family        : $serif;
 
-$global-font-family         : $helvetica;
-$header-font-family         : $helvetica;
-$caption-font-family        : $helvetica;
+//$global-font-family         : $helvetica;
+//$header-font-family         : $helvetica;
+//$caption-font-family        : $helvetica;
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
