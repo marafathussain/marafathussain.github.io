@@ -15,8 +15,8 @@ Before joining UBC, I completed M.Sc. and B.Sc. in Electrical and Electronic Eng
 
 
 📌 <strong style="color: blue;font-size:24px">News</strong>
-<p style="font-size:16px">
-[Jan 2021] Paper on "Cascaded Regression Neural Nets for Kidney Localization and Segmentation-free Volume Estimation" has been accepted in IEEE Transaction on Medical Imaging\
+
+<p style="font-size:16px">[Jan 2021] Paper on "Cascaded Regression Neural Nets for Kidney Localization and Segmentation-free Volume Estimation" has been accepted in IEEE Transaction on Medical Imaging</p>\
 [Dec 2020] Attended NeurIPS 2020 virtually\
 [Apr 2020] Started PostDoc at the [Medical Image Analysis Lab (MIAL)](https://www.medicalimageanalysis.com/) of [Prof. Ghassan Hamarneh](https://www.sfu.ca/computing/people/faculty/ghassanhamarneh.html) at [Simon Fraser University](https://www.sfu.ca/computing.html)\
 [Mar 2020] Defended Ph.D. thesis at the University of British Columbia under the supervision of [Prof. Rafeef Garbi](https://bisicl.ece.ubc.ca/rafeef/)\
@@ -25,7 +25,7 @@ Before joining UBC, I completed M.Sc. and B.Sc. in Electrical and Electronic Eng
 [Oct 2019] Presented our paper on learnable image histogram for kidney cancer grading in MICCAI 2019\
 [Oct 2019] Presented our paper on learnable image histogram for kidney cancer staging in MLMI 2019\
 [Sep 2019] Invited talk at the Centre for Molecular Medicine and Therapeutics, UBC, Vancouver 
-</p>
+
   
 <strong style="color:#f03d33 ;font-size:22px">Education</strong>
 
