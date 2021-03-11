@@ -26,7 +26,7 @@ Before joining UBC, I completed M.Sc. and B.Sc. in Electrical and Electronic Eng
 [Oct 2019] Presented our paper in MLMI 2019\
 [Sep 2019] Invited talk at the [CMMT](https://cmmt.ubc.ca/), UBC, Vancouver 
 
-  
+<!--
 <strong style="color:#f03d33 ;font-size:22px">Education</strong>
 
 - [University of British Columbia (UBC), Vancouver](https://www.ubc.ca/){:target="_blank"}\
@@ -68,7 +68,7 @@ Before joining UBC, I completed M.Sc. and B.Sc. in Electrical and Electronic Eng
 🗳 <strong style="color:#f03d33 ;font-size:22px">Elected Position Held</strong>
 
 - **Secretary** (May 2017 - April 2018)\
-  [Electrical and Computer Engineering Graduate Student Association (ECEGSA)](http://gsa.ece.ubc.ca/contact/past-executives/){:target="_blank"}, UBC
+  [Electrical and Computer Engineering Graduate Student Association (ECEGSA)](http://gsa.ece.ubc.ca/contact/past-executives/){:target="_blank"}, UBC -->
   
   
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=marafathussain.marafathussain.github.io)
