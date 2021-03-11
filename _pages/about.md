@@ -17,6 +17,7 @@ Before joining UBC, I completed M.Sc. and B.Sc. in Electrical and Electronic Eng
 
 [Jan 2021] One paper accepted in IEEE Transaction on Medical Imaging\
 [Dec 2020] Attended NeurIPS 2020 virtually\
+[Oct 2020] Invited talk at the UBC [SBME](https://www.bme.ubc.ca/events/event/sbme-virtual-seminar-hussain/) virtual seminar\
 [Apr 2020] Started PostDoc in [MIAL](https://www.medicalimageanalysis.com/) at [SFU](https://www.sfu.ca/computing.html)\
 [Mar 2020] Defended Ph.D. thesis at UBC, Vancouver\
 [Nov 2019] Invited talk at the [CAMCA](https://www.camca.mgh.harvard.edu/), Harvard University\
