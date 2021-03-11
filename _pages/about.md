@@ -22,6 +22,7 @@ Before joining UBC, I completed M.Sc. and B.Sc. in Electrical and Electronic Eng
 [Mar 2020] Defended Ph.D. thesis at UBC, Vancouver\
 [Nov 2019] Invited talk at the [CAMCA](https://www.camca.mgh.harvard.edu/), Harvard University\
 [Oct 2019] Invited talk at the [DBPEDS](https://dbpeds.stanford.edu/), Stanford University\
+[Oct 2019] Graduate Student Award in MICCAI 2019\
 [Oct 2019] Presented our paper in MICCAI 2019\
 [Oct 2019] Presented our paper in MLMI 2019\
 [Sep 2019] Invited talk at the [CMMT](https://cmmt.ubc.ca/), UBC, Vancouver 
