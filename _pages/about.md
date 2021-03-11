@@ -15,15 +15,15 @@ Before joining UBC, I completed M.Sc. and B.Sc. in Electrical and Electronic Eng
 
 <strong style="color: #f03d33;font-size:22px">News</strong>
 
-<small>[Jan 2021] One paper accepted in IEEE Transaction on Medical Imaging</small>\
-<small>[Dec 2020] Attended NeurIPS 2020 virtually</small>\
-<small>[Apr 2020] Started PostDoc in [MIAL](https://www.medicalimageanalysis.com/) at [SFU](https://www.sfu.ca/computing.html)</small>\
-<small>[Mar 2020] Defended Ph.D. thesis at UBC</small>\
-[Nov 2019] Invited talk at the Center for Advanced Medical Computing and Analysis, Harvard University, Boston, MA\
-[Oct 2019] Invited talk at the Division of Developmental-Behavioral Pediatrics, Stanford University, Palo Alto, CA\
-[Oct 2019] Presented our paper on learnable image histogram for kidney cancer grading in MICCAI 2019\
-[Oct 2019] Presented our paper on learnable image histogram for kidney cancer staging in MLMI 2019\
-[Sep 2019] Invited talk at the Centre for Molecular Medicine and Therapeutics, UBC, Vancouver 
+[Jan 2021] One paper accepted in IEEE Transaction on Medical Imaging\
+[Dec 2020] Attended NeurIPS 2020 virtually\
+[Apr 2020] Started PostDoc in [MIAL](https://www.medicalimageanalysis.com/) at [SFU](https://www.sfu.ca/computing.html)\
+[Mar 2020] Defended Ph.D. thesis at UBC, Vancouver\
+[Nov 2019] Invited talk at the [CAMCA](https://www.camca.mgh.harvard.edu/), Harvard University\
+[Oct 2019] Invited talk at the [DBPEDS](https://dbpeds.stanford.edu/), Stanford University\
+[Oct 2019] Presented our paper in MICCAI 2019\
+[Oct 2019] Presented our paper in MLMI 2019\
+[Sep 2019] Invited talk at the [CMMT](https://cmmt.ubc.ca/), UBC, Vancouver 
 
   
 <strong style="color:#f03d33 ;font-size:22px">Education</strong>
