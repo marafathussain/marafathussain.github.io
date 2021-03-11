@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Click to download](https://marafathussain.github.io/files/CV.pdf){:target="_blank"}
+[Click to download](https://marafathussain.github.io/files/CV.pdf){:target="_blank"} my full CV.
 
 <strong style="color:#f03d33 ;font-size:22px">Education</strong>
 
