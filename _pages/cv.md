@@ -9,7 +9,7 @@ redirect_from:
 
 [Click to download](https://marafathussain.github.io/files/CV.pdf){:target="_blank"} my full CV.
 
-<strong style="color:#f03d33 ;font-size:22px">Education</strong>
+🎓 <strong style="color:#f03d33 ;font-size:22px">Education</strong>
 
 - [University of British Columbia (UBC), Vancouver](https://www.ubc.ca/){:target="_blank"}\
   Ph.D. in Biomedical Engineering, 2020\
@@ -19,7 +19,7 @@ redirect_from:
   M.Sc. in Electrical and Electronic Engineering, 2013\
   B.Sc. in Electrical and Electronic Engineering, 2011
   
-<strong style="color:#f03d33 ;font-size:22px">Professional Experience</strong>
+🖋 <strong style="color:#f03d33 ;font-size:22px">Professional Experience</strong>
 
 - **Postdoctoral Research Associate** (April 2020 - Present)\
   Simon Fraser University, Burnaby, BC
@@ -38,7 +38,7 @@ redirect_from:
 - **Software Engineer** (February 2011 - June 2011)\
   Samsung R&D Institute, Dhaka, Bangladesh
 
-<strong style="color:#f03d33 ;font-size:22px">Selected Workshops/Trainings Attended</strong>
+📚 <strong style="color:#f03d33 ;font-size:22px">Selected Workshops/Trainings Attended</strong>
 
 - **Privacy and Information Security Fundamentals** 2019\
   University of British Columbia, Vancouver, BC
