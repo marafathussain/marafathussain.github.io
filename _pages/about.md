@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-[[Harvard Scholar Profile](https://scholar.harvard.edu/arafat){:target="_blank"}][[Harvard Catalyst Profile](https://connects.catalyst.harvard.edu/Profiles/display/Person/201410){:target="_blank"}]
+[Harvard Scholar Profile](https://scholar.harvard.edu/arafat){:target="_blank"} | [Harvard Catalyst Profile](https://connects.catalyst.harvard.edu/Profiles/display/Person/201410){:target="_blank"}
 
 I am currently a Postdoctoral Research Fellow in the [Image, Informatics & Intelligence (i3) Research Lab](https://projects.iq.harvard.edu/i3-lab){:target="_blank"} at Harvard Medical School, Boston, Massachusetts. My research interests lie in machine/deep learning and its application to medical image analysis. 
 
