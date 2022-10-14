@@ -9,52 +9,169 @@
 - title: Education
   type: time_table
   contents:
-    - title: University of British Columbia (UBC), Vancouver 
-      degree: Ph.D. in Biomedical Engineering
+    - title: Ph.D. in Biomedical Engineering 
+      institution: University of British Columbia (UBC), Vancouver 
       year: 2015-20
       description:
         - Awarded the <b>Four Year Fellowship (FYF)</b>.
         - 'Supervisor: <a href="https://bisicl.ece.ubc.ca/rafeef/" target="_blank"><b>Prof. Rafeef Garbi</b></a>'
         - 'Thesis: Volumetric Image-based Supervised Learning for Renal Cancer Detection and Analysis' 
-    - title: University of British Columbia (UBC), Vancouver 
-      degree: M.A.Sc. in Biomedical Engineering
+    - title: M.A.Sc. in Biomedical Engineering
+      institution: University of British Columbia (UBC), Vancouver  
       year: 2013-15
       description:
         - 'Supervisors: <a href="https://bisicl.ece.ubc.ca/rafeef/" target="_blank"><b>Prof. Rafeef Garbi</b></a> and <a href="https://mech.ubc.ca/antony-hodgson/" target="_blank"><b>Prof. Antony Hodgson</b></a>'
         - 'Thesis: Robust Bone Detection in Ultrasound Using Combined Strain Imaging and Envelope Signal Power Detection'
-    - title: Bangladesh University of Engineering & Technology (BUET) 
-      degree: M.Sc. in Electrical and Electronic Engineering
+    - title: M.Sc. in Electrical and Electronic Engineering
+      institution: Bangladesh University of Engineering & Technology (BUET) 
       year: 2011-13
       description:
         - 'Supervisor: <a href="http://khasan.buet.ac.bd/" target="_blank"><b>Prof. Md Kamrul Hasan</b></a>'
         - 'Thesis: Robust Bone Detection in Ultrasound Using Combined Strain Imaging and Envelope Signal Power Detection'
-    - title: Bangladesh University of Engineering & Technology (BUET) 
-      degree: B.Sc. in Electrical and Electronic Engineering
+    - title: B.Sc. in Electrical and Electronic Engineering
+      institution: Bangladesh University of Engineering & Technology (BUET)
       year: 2006-11
       description:
         - 'Supervisor: <a href="http://khasan.buet.ac.bd/" target="_blank"><b>Prof. Md Kamrul Hasan</b></a>'
         - 'Thesis: Ultrasound Strain Imaging in Wavelet Domain'
-
-- title: Education
+        
+- title: Professional Experience
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Postdoctoral Research Fellow
+      institution: Harvard Medical School/Boston Children’s Hospital, Boston, MA
+      year: 2021-Now
+    - title: Postdoctoral Research Associate
+      institution: Simon Fraser University, Burnaby, BC, Canada
+      year: 2020-21
+    - title: Laboratory Admin
+      institution: Biomedical Signal and Image Computing Laboratory, University of British Columbia, Vancouver, BC
+      year: 2018-20
+    - title: Graduate Research Assistant
+      institution: University of British Columbia (UBC), Vancouver 
+      year: 2013-20
+    - title: Graduate Teaching Assistant
+      institution: University of British Columbia (UBC), Vancouver 
+      year: 2014-19
+    - title: Senior Lecturer
+      institution: Eastern University, Dhaka, Bangladesh
+      year: 2015
+    - title: System Engineer
+      institution: Sheikh Hasina National Institute of Burn and Plastic Surgery, Dhaka, Bangladesh
+      year: 2013
+    - title: Research Engineer
+      institution: Bangladesh University of Engineering & Technology (BUET), Dhaka, Bangladesh
+      year: 2011-12
+    - title: Software Engineer
+      institution: Samsung R&D Institute, Dhaka, Bangladesh
+      year: 2011
+      
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - title: Graduate Student Award
+      institution: Medical Image Computing and Computer Assisted Intervention Society
+      year: 2019
+      description: Received an award of 500 US$ to attend the premier conference, the International Conference on Medical Image Computing and Computer Assisted Interventions (MICCAI), held in Shenzhen, China.
+    - title: Conference Travel Support for ICICS Graduate Students
+      institution: Institute for Computing, Information and Cognitive Systems (ICICS), UBC
+      year: 2017
+      description: Received an award of 1000 CA$ to attend the International Conference on Medical Image Computing and Computer Assisted Interventions (MICCAI) and International Workshop on Machine Learning in Medical Imaging (MLMI), held in Quebec City, Quebec, Canada.
+    - title: Outstanding Reviewer Recognition
+      institution: Elsevier
+      year: 2016
+      description: Received this recognition from Elsevier or outstanding journal reviewing works.
+    - title: Four Year Fellowship
+      institution: University of British Columbia (UBC), Vancouver 
+      year: 2015-19
+      description: Received a full scholarship of 22,000CAD/year plus full tuition coverage for 4 years from the department of Electrical and Computer Engineering, UBC. This fellowship funds the doctoral research in Biomedical Engineering at the University of British Columbia, Vancouver, Canada.
+    - title: Graduate Student Travel Award
+      institution: Medical Image Computing and Computer Assisted Intervention Society
+      year: 2014
+      description: Received an award of 750 US$ to attend the premier conference, the International Conference on Medical Image Computing and Computer Assisted Interventions (MICCAI), held in Boston, MA.
+    - title: Faculty of Applied Science Graduate Award
+      institution: University of British Columbia (UBC), Vancouver 
+      year: 2013-16
+      description: Award of 4,000 CA$/year offered to graduate students demonstrating evidence of strong academic performance throughout the university studies.
+    - title: Singapore Bangladesh Society Scholarship
+      year: 2010
+      place: Singapore Bangladesh Society
+      description: Received two awards totaling 12,000 BDT in recognition of strong academic performance in the undergraduate class at Bangladesh University of Engineering and Technology, Dhaka, Bangladesh.
+    - title: American Association of Bangladeshi Engineers and Architects Scholarship
+      year: 2009
+      place: American Association of Bangladeshi Engineers and Architects
+      description: Received an award of 10,000 BDT in recognition of strong academic performance in the undergraduate class at Bangladesh University of Engineering and Technology, Dhaka, Bangladesh.
+    - title: Life Membership
+      year: 2008
+      place: Bangladesh Red Crescent Society
+      description: Awarded the “Life Membership” in recognition of the voluntary participation and efforts in relief managements and distributions of Bangladesh Red Crescent Society during different natural calamities like hurricane and tornado.
+    - title: Dean’s List Award
+      year: 2007
+      place: Bangladesh University of Engineering and Technology
+      description: Received an award of 3,000 BDT in recognition of achieving CGPA greater than 3.75 out of 4.00 in a year of the undergraduate class at Bangladesh University of Engineering and Technology, Dhaka, Bangladesh.
+    - title: Merit Scholarship
+      year: 2003-10
+      place: Ministry of Education, Government of the People’s Republic of Bangladesh
+      description: Received two merit scholarships totaling 20,000 BDT/year for securing merit positions in class X and XII nation-wide board examinations.
+      
+- title: Received Offers
+  type: time_table
+  contents:
+    - title: Postdoctoral Fellowship Offer
+      institution: Boston Children’s Hospital & Harvard Medical School
+      year: 2020
+    - title: Postdoctoral Fellowship Offer
+      institution: Massachussetts General Hospital & Harvard Medical School
+      year: 2019
+    - title: Postdoctoral Fellowship Offer
+      institution: School of Medicine, Stanford University, 2019
+      year: 2019
+    - title: DPhil Admission Offer
+      institution: Department of Engineering, University of Oxford
+      year: 2015
+      
+- title: Invited Talks
+  type: time_table
+  contents:
+    - title: '<a href="https://www.bme.ubc.ca/events/event/sbme-virtual-seminar-hussain/" target="_blank">School of Biomedical Engineering Virtual Seminar</a>, UBC, Vancouver'
+      institution: Topic: Volumetric Image-based Supervised Learning Approaches for Kidney Cancer Detection & Analysis
+      year: 2020
+    - title: '<a href="https://www.camca.mgh.harvard.edu/" target="_blank">Center for Advanced Medical Computing and Analysis</a>, Harvard University, Boston, MA'
+      institution: Topic: Volumetric Image-based Supervised Learning for Renal Cancer Detection & Analysis
+      year: 2019
+    - title: '<a href="http://dbpeds.stanford.edu/" target="_blank">Division of Developmental-Behavioral Pediatrics</a>, Stanford University, Palo Alto, CA'
+      institution: Topic: Kidney Cancer Analysis Using Volumetric Image-based Supervised Learning
+      year: 2019
+    - title: '<a href="http://dbpeds.stanford.edu/" target="_blank">Centre for Molecular Medicine and Therapeutics</a>, UBC, Vancouver'
+      institution: Topic: Kidney Cancer Detection and Analysis from CT Using Deep Learning
+      year: 2019
+      
+- title: Revieweing Experience
+  type: time_table
+  contents:
+    - title: 'I am/was a reviewer of the following journals/proceedings:'
+      year: 2014-2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
-
+         - Frontiers in Neuroscience
+         - Frontiers in Neurology
+         - Frontiers in Medicine
+         - PLOS ONE
+         - IEEE Transactions on Medical Imaging
+         - IEEE Transactions on Neural Networks and Learning Systems
+         - IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control
+         - IEEE Journal of Biomedical and Health Informatics
+         - IEEE Access
+         - BMJ Open
+         - Heliyon (Elsevier)
+         - Ultrasonics (Elsevier)
+         - Computers in Biology and Medicine Journal (Elsevier)
+         - Artificial Intelligence in Medical Imaging (MDPI)
+         - Sensors (MDPI)
+         - Tomography (MDPI)
+         - Algorithms (MDPI)
+         - Deep Learning in Medical Image Analysis, 2019 (Springer)
+         - Medical Image Computing and Computer Assisted Intervention, 2019/2021 (Springer)
+      
 - title: Experience
   type: time_table
   contents:
