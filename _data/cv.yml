@@ -2,11 +2,38 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Mohammad Arafat Hussain 
     - name: Languages
-      value: English, German
+      value: Bengali (native), English (fluent)
+
+- title: Education
+  type: time_table
+  contents:
+    - title: University of British Columbia (UBC), Vancouver 
+      degree: Ph.D. in Biomedical Engineering
+      year: 2015-20
+      description:
+        - Awarded the <b>Four Year Fellowship (FYF)</b>.
+        - 'Supervisor: <a href="https://bisicl.ece.ubc.ca/rafeef/" target="_blank"><b>Prof. Rafeef Garbi</b></a>'
+        - 'Thesis: Volumetric Image-based Supervised Learning for Renal Cancer Detection and Analysis' 
+    - title: University of British Columbia (UBC), Vancouver 
+      degree: M.A.Sc. in Biomedical Engineering
+      year: 2013-15
+      description:
+        - 'Supervisors: <a href="https://bisicl.ece.ubc.ca/rafeef/" target="_blank"><b>Prof. Rafeef Garbi</b></a> and <a href="https://mech.ubc.ca/antony-hodgson/" target="_blank"><b>Prof. Antony Hodgson</b></a>'
+        - 'Thesis: Robust Bone Detection in Ultrasound Using Combined Strain Imaging and Envelope Signal Power Detection'
+    - title: Bangladesh University of Engineering & Technology (BUET) 
+      degree: M.Sc. in Electrical and Electronic Engineering
+      year: 2011-13
+      description:
+        - 'Supervisor: <a href="http://khasan.buet.ac.bd/" target="_blank"><b>Prof. Md Kamrul Hasan</b></a>'
+        - 'Thesis: Robust Bone Detection in Ultrasound Using Combined Strain Imaging and Envelope Signal Power Detection'
+    - title: Bangladesh University of Engineering & Technology (BUET) 
+      degree: B.Sc. in Electrical and Electronic Engineering
+      year: 2006-11
+      description:
+        - 'Supervisor: <a href="http://khasan.buet.ac.bd/" target="_blank"><b>Prof. Md Kamrul Hasan</b></a>'
+        - 'Thesis: Ultrasound Strain Imaging in Wavelet Domain'
 
 - title: Education
   type: time_table
