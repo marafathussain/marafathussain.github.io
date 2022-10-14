@@ -11,7 +11,8 @@ profile:
   address: >
     <p>Children's Hospital</p>
     <p>Landmark Center</p>
-    <p>401 Park Dr, Boston, MA 02115</p>
+    <p>401 Park Dr</p>
+    <p>Boston, MA 02115</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
