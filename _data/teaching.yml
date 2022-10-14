@@ -2,7 +2,7 @@
   type: time_table
   contents:
     - title: '<a href="https://www.ubc.ca/" target="_blank">University of British Columbia (UBC)</a>, UBC, Vancouver'
-      institution: Conducted tutorials, invigilation, grading and laboratory demonstrations for the following courses:
+      institution: Conducted tutorials, invigilation, grading and laboratory demonstrations for the following courses
       year: 2014-19
       description:
         - EECE 269: Signals and Systems (Winter T2 2013)
