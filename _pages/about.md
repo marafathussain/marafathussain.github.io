@@ -2,21 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Research Fellow, Boston Children's Hospital, Harvard Medical School #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: profile_pic.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Children's Hospital</p>
+    <p>Landmark Center</p>
+    <p>401 Park Dr, Boston, MA 02115</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
+
+[[Harvard Scholar Profile](https://scholar.harvard.edu/arafat){:target="_blank"}][[Harvard Catalyst Profile](https://connects.catalyst.harvard.edu/Profiles/display/Person/201410){:target="_blank"}]
 
 I am currently a Postdoctoral Research Fellow in the [Image, Informatics & Intelligence (i3) Research Lab](https://projects.iq.harvard.edu/i3-lab){:target="_blank"} at Harvard Medical School, Boston, Massachusetts. My research interests lie in machine/deep learning and its application to medical image analysis. 
 
