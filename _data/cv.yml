@@ -133,6 +133,9 @@
 - title: Invited Talks
   type: time_table
   contents:
+    - title: '<a href="https://www.csit.carleton.ca/" target="_blank">School of Information Technology</a>, Carleton University, Ottawa'
+      institution: Volumetric Image-based Supervised Deep Learning for Organ Abnormality Detection and Analysis
+      year: 2021
     - title: '<a href="https://www.bme.ubc.ca/events/event/sbme-virtual-seminar-hussain/" target="_blank">School of Biomedical Engineering Virtual Seminar</a>, UBC, Vancouver'
       institution: Volumetric Image-based Supervised Learning Approaches for Kidney Cancer Detection & Analysis
       year: 2020
