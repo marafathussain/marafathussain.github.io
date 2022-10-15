@@ -3,7 +3,7 @@ layout: page
 title: Radiomics with <font style="color:blue;">Deep Learning</font>
 description: Learnable Image Histogram for Cancer Analysis
 img: /assets/img/r1_cover.png
-importance: 1
+importance: 2
 category: work
 ---
 
