@@ -2,9 +2,9 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Machine/Deep Learning projects are highlighted with <font style="color:blue;">blue fonts.</font>
+description: Machine/Deep Learning projects are highlighted with blue fonts.
 nav: true
-nav_order: 2
+nav_order: 3
 display_categories: [work, fun]
 horizontal: false
 ---
