@@ -1,10 +1,10 @@
 ---
 layout: page
-title: <font style="color:blue;">Active Deep Learning</font> from Noisy Teacher
+title: Active Deep Learning from Noisy Teacher
 description: Semi-Supervised COVID-19 Pneumonia Infection Segmentation in CT
 img: /assets/img/al_cover.png
 importance: 1
-category: work
+category: Machine Learning
 ---
 
 <font style="color:red;">This work is under review in a top tier venue. So, detailed description and mathematical derivation has been skipped for now.</font>
