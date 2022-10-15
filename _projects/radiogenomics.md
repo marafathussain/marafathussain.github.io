@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Gene Mutation Prediction using <font style="color:blue;">Deep Learning</font>
+title: Gene Mutation Prediction using Deep Learning
 description: Multiple Instance Dcision Aggregation for Gene Mutation Detection from CT
 img: /assets/img/r2_cover.png
 importance: 3
-category: work
+category: Machine Learning
 ---
 
 Kidney clear cell renal cell carcinoma (ccRCC) is the major sub-type of RCC, constituting one the most common cancers worldwide accounting for a steadily increasing mortality rate with 350,000 new cases recorded in 2012. Understanding the underlying genetic mutations in ccRCC provides crucial information enabling malignancy staging and patient survival estimation thus plays a vital role in accurate ccRCC diagnosis, prognosis, treatment planning, and response assessment. Recent studies have identified several mutations in genes associated with ccRCC. For example, the von Hippel-Lindau (VHL) tumor suppressor gene, BRCA1-associated protein 1 (BAP1) gene, polybromo 1 (PBRM1) gene, and SET domain containing 2 (SETD2) gene have been identified as the most commonly mutated genes in ccRCC. Although these underlying gene mutations can be identified by whole genome sequencing of the ccRCC following invasive nephrectomy or kidney biopsy procedures, recent studies have suggested that such mutations may be noninvasively identified by studying image features of the ccRCC from Computed Tomography (CT) data. Such image feature identification currently relies on laborious manual processes based on visual inspection of 2D image slices that are time-consuming and subjective. We proposed a convolutional neural network approach for automatic detection of underlying ccRCC gene mutations from 3D CT
