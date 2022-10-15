@@ -2,11 +2,11 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Machine/Deep Learning projects are highlighted with <font style="color:blue;">blue fonts.</font>
 nav: true
 nav_order: 2
 display_categories: [work, fun]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
