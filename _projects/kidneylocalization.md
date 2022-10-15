@@ -3,7 +3,8 @@ layout: page
 title: <font style="color:blue;">Deep Learning</font> for Organ Localization
 description: Healthy and Pathological Kidney Localization in CT
 img: /assets/img/r4_cover.png
-importance: 3
+importance: 4
+category: work
 ---
 
 Automatic kidney localization in volumetric medical images is a critical step that often precedes subsequent data processing and analysis. For years, kidneys were typically localized manually in clinical settings. To automate this process, Criminisi et al. (2011, 2013) proposed regression-forest (RF)-based anatomy localization methods that predict the boundary wall locations of a tight region-of-interest (ROI) encompassing a particular organ. However, their reported boundary localization error for typical healthy kidneys (size ∼13×7.5×2.5 cm<sup>3</sup>) was 16 mm, which could significantly affect the subsequent volume estimation, depending on the volume estimation process. Cuingnet et al. 2012 fine tuned the method in (Criminisi et al. 2011) by using an additional RF, which improved the kidney localization accuracy by 60%. However, the authors mentioned (in Cuingnet et al. 2012) that their method was designed and
