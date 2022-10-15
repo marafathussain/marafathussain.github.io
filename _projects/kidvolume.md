@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kidney Assessment with Deep Learning
+title: Kidney Assessment with Regression Forests
 description: Segmentation-free Kidney Volume Estimation
 img: /assets/img/r5_cover.png
 importance: 3
