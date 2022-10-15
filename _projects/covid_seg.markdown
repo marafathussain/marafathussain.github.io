@@ -3,7 +3,8 @@ layout: page
 title: Segmentation with <font style="color:blue;">Semi-supervised Deep Learning</font>
 description: Lung and Infection Segmentation in COVID-19 CT
 img: /assets/img/cv_cover.png
-importance: 2
+importance: 3
+category: work
 ---
 
 The coronavirus disease 2019, abbreviated as COVID-19, is currently a World Health Organization (WHO)-announced global pandemic. COVID-19 is caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). It is a highly contagious disease and although known to be transmitted primarily from human-to-human via respiratory fomites, a recent study also found evidence of live SARS-CoV-2 virus in human feces. COVID-19 is primarily known to affect the human respiratory system, however, it often increases the risk of death to patients with underlying cardiovascular disease. With the onset of the COVID-19 in December 2019, the polymerase chain reaction (PCR) assay of the sputum has been considered the gold standard for COVID-19 diagnosis. PCR can detect SARS-CoV-2 RNA from respiratory specimens (collected through a variety of means such as nasopharyngeal or oropharyngeal swabs). However, it is a time-consuming manual process, and known to often result in high false-negatives.
