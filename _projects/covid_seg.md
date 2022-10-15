@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Segmentation with <font style="color:blue;">Semi-supervised Deep Learning</font>
+title: Segmentation with Semi-supervised Deep Learning
 description: Lung and Infection Segmentation in COVID-19 CT
 img: /assets/img/cv_cover.png
 importance: 3
