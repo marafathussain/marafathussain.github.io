@@ -4,7 +4,7 @@ title: <font style="color:blue;">Deep Multiple Instance Learning</font> for Canc
 description: Collage CNN for Renal Cell Carcinoma Detection from CT
 img: /assets/img/r3_cover.png
 importance: 5
-category: work
+category: Machine Learning
 ---
 
 Renal cell carcinoma (RCC) is a common malignancy that accounts for a steadily increasing mortality rate worldwide. Widespread use of abdominal imaging in recent years, mainly CT and MRI, has significantly increased the detection rates of such cancers. However, detection still relies on a laborious manual process based on visual inspection of 2D image slices. In this work, we proposed an image <b>collage</b> based deep convolutional neural network (CNN) approach for automatic detection of pathological kidneys containing RCC. Our collage approach overcomes the absence of slice-wise training labels, enables slice-reshuffling based data augmentation, and offers favourable training time and performance compared to 3D CNNs. When validated on clinical CT datasets of 160 patients from the TCIA database, our method classified RCC cases <i>vs.</i> normal kidneys with 98% accuracy.
