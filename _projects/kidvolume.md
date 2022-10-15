@@ -3,7 +3,7 @@ layout: page
 title: 'Kidney Assessment with <font style="color:blue;">Deep/Machine Learning</font>'
 description: Segmentation-free Kidney Volume Estimation
 img: /assets/img/r5_cover.png
-importance: 6
+importance: 3
 category: work
 ---
 
