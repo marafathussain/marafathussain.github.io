@@ -5,7 +5,7 @@ permalink: /projects/
 description: Machine/Deep Learning projects are highlighted with blue fonts.
 nav: true
 nav_order: 4
-display_categories: [work, fun]
+display_categories: [Machine Learning, Others]
 horizontal: false
 ---
 
