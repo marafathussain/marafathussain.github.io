@@ -2,7 +2,7 @@
 layout: page
 title: Kidney Assessment with Deep Learning
 description: Segmentation-free Kidney Volume Estimation
-img: /assets/img/r5_cover.png
+img: /assets/img/r5_fig2.png
 importance: 3
 category: Machine Learning
 ---
