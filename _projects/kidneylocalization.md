@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Deep Learning for Organ Localization
+title: Aggregated Orthogonal Decision CNN for Organ Localization
 description: Healthy and Pathological Kidney Localization in CT
 img: /assets/img/r4_fig1.png
 importance: 4
