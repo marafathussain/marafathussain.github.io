@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <font style="color:blue;">Deep Multiple Instance Learning</font> for Cancer Detection
+title: Deep Multiple Instance Learning for Cancer Detection
 description: Collage CNN for Renal Cell Carcinoma Detection from CT
 img: /assets/img/r3_cover.png
 importance: 5
