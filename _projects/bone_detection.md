@@ -4,7 +4,7 @@ title: Bone Detection in Ultrasound
 description: Detection of bone surface in ultrasound using combined elastography and envelope signal power
 img: /assets/img/bd_cover.png
 importance: 6
-category: work
+category: Others
 ---
 
 Fluoroscopy remains the primary intraoperative imaging modality for bone boundary visualization in computer assisted orthopaedic surgery systems. The associated radiation exposure posing risks to both patients and surgical teams gave rise to recent interest in safer non-ionizing real-time intraoperative imaging alternatives such as US. In US guided surgical intervention, bone localization in US images is essential for visualization and guidance, e.g., during fragment positioning in fracture reduction surgeries. Despite recent advancement in US intensity-based automatic bone segmentation, results remain unpredictable due to the high levels of speckle noise, reverberation, and signal drop out. To tackle this challenge, we proposed an effective way to extract 3-D bone surfaces using a surface growing approach that is seeded from 2-D bone contours. The initial 2-D bone contours are estimated from a combination of ultrasound strain images and envelope power images.
