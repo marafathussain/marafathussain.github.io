@@ -29,13 +29,13 @@ Chest X-ray images are used in deep convolutional neural networks for the detect
 As shown in Fig. 1, to augment the data, the input data pool is first divided into $$N$$ equal folds. Then a noisy data generator adds noise (e.g., impulse, Gaussian, speckle, and Poisson noise) to each fold separately. The raw samples of the dataset were randomly split into $$N$$-folds to accelerate finding the best policies. Decreasing the number of samples using the $$N$$-fold split reduces the CNN training time for each fold.  
 
 The augmenters create new data based on new parameters that the Bayesian optimizer has found. In the next step, each fold is processed by the child CNN model. Use of child networks, instead of very deep CNN, in policy evaluation speeds up the execution of the proposed method. Based on the results of child CNNs, the controller improves weak policies and maintains strong policies. The controller uses the Bayesian optimizer to find the optimum set of augmentation policies (the parameters of each noise type) in a search space. Let $$g$$ be the search space and $$f$$ be the loss function of a classifier, then the Bayesian optimizer can be represented as:  
-$$y = arg min_G(G); G\ing$$  
+$$y = arg min_G(G); G\in g$$  
 
 The optimization problem in above equation aims to find $$y$$ that minimizes $$f(G)$$ for $$G$$ in a bounded domain $$g$$. The loss values of the child CNNs are used to calculate the loss function for the Bayesian optimizer. This process continues until the maximum iteration number is reached. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/lta_process_ae.png' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/ita_process_ae.png' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
@@ -48,16 +48,17 @@ The optimization problem in above equation aims to find $$y$$ that minimizes $$f
 We accumulated a dataset of 1,248 chest X-ray images of posterior–anterior view (666 images) and anterior–posterior view (582 images) from two public repositories (Cohen et al. 2020, RSNA Pneumonia Detection Challenge | Kaggle). The first repository contains chest X-ray images of 215 COVID-19 patients and 33 non-COVID pneumonia patients. The second repository contains chest X-ray images of 500 healthy subjects and 500 non-COVID pneumonia patients. We carefully eliminated the X-ray images of lateral view and CT images from the data cohort of first repository. 
 
 <strong>Results</strong>
+The confusion matrices of COVID-19 classification by the proposed data augmentation approach using restored images are shown in Fig. 3. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/r5_fig3.png' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/ita_results.png' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
-    Fig. 2: Kidney volume estimation performance by different methods. The result for our dual regression-forests method (published in 2016) is shown with Red box. The result for our CNN-based method (published in 2017) is shown with Green box. The results by our latest FCN-based work (accepted in 2021) are indicated with Blue box.
+    Fig. 3: Confusion matrices for X-ray image classification by the proposed learning-toaugment approach using restored images corrupted by noise. Here, 'Normal' represents the 'Healthy' subjects and 'Other_Pneumonia' represents the 'non-COVID pneumonia' patients.
 </div>
 
 <strong>For Details</strong>
 
-Please read our papers [[1](https://ieeexplore.ieee.org/abstract/document/9358223?casa_token=rxZNi4GaP-YAAAAA:vlaAvOf6J1pKBT9goM4k0cCgPyJQ9NgOg_SSzt4iAFwHINOSelv-LsPXU44-XYmkME_wsI8)], [[2](https://link.springer.com/chapter/10.1007/978-3-319-66179-7_70)].
+Please read our papers [[1](https://www.sciencedirect.com/science/article/abs/pii/S0010482521004984)], [[2](https://www.sciencedirect.com/science/article/pii/S1877750322001466)].
