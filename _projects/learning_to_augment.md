@@ -45,7 +45,7 @@ The optimization problem in above equation aims to find $$y$$ that minimizes $$f
 
 <strong>Data</strong>
 
-We accumulated a dataset of 1,248 chest X-ray images of posterior–anterior view (666 images) and anterior–posterior view (582 images) from two public repositories (Cohen et al. 2020, RSNA Pneumonia Detection Challenge | Kaggle). The first repository contains chest X-ray images of 215 COVID-19 patients and 33 non-COVID pneumonia patients. The second repository contains chest X-ray images of 500 healthy subjects and 500 non-COVID pneumonia patients. We carefully eliminated the X-ray images of lateral view and CT images from the data cohort of first repository. 
+We accumulated a dataset of 1,248 chest X-ray images of posterior–anterior view (666 images) and anterior–posterior view (582 images) from two public repositories (Cohen et al. 2020, RSNA Pneumonia Detection Challenge (Kaggle)). The first repository contains chest X-ray images of 215 COVID-19 patients and 33 non-COVID pneumonia patients. The second repository contains chest X-ray images of 500 healthy subjects and 500 non-COVID pneumonia patients. We carefully eliminated the X-ray images of lateral view and CT images from the data cohort of first repository. 
 
 <strong>Results</strong>
 The confusion matrices of COVID-19 classification by the proposed data augmentation approach using restored images are shown in Fig. 3. 
