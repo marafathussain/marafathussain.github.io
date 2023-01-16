@@ -15,3 +15,8 @@ Many machine and deep learning models predict continuous value instead of catego
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/volume_2_dice_figure.png' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
+
+
+<strong>For Details</strong>
+
+Please read our papers [[1](https://marafathussain.github.io/assets/pdf/tmi2021.pdf)].
