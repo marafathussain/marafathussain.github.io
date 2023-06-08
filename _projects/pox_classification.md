@@ -11,6 +11,7 @@ The clinical characteristics of Monkeypox closely resemble Smallpox, and the ski
 
 
 <strong>Brief Description of the Method</strong>
+
 In this paper, we test the feasibility of using state-of-the-art AI techniques to classify different types of pox from digital skin images of pox lesions and rashes. The novelties of this work are the following.
 1) We utilize a database that contains skin lesion/rash images of 5 different diseases i.e., Monkeypox, Chickenpox, Smallpox, Cowpox, and Measles, as well as contains healthy skin images.
 2) Our database contains more data for pox, measles, and healthy images scraped on the Web.
