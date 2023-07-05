@@ -2,6 +2,7 @@ github_users:
   - marafathussain
 
 github_repos:
+  - marafathussain/MRI-infer-neurocognition
   - marafathussain/ALNT 
   - marafathussain/3DImHistNet-PyTorch
   - marafathussain/COVID_nonCOVID_classification 
