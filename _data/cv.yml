@@ -14,12 +14,14 @@
       year: 2015-20
       description:
         - Awarded the <b>Four Year Fellowship (FYF)</b>.
+        - Awarded the <b>Faculty of Applied Science Graduate Award</b>.
         - 'Supervisor: <a href="https://bisicl.ece.ubc.ca/rafeef/" target="_blank"><b>Prof. Rafeef Garbi</b></a>'
         - 'Thesis: Volumetric Image-based Supervised Learning for Renal Cancer Detection and Analysis' 
     - title: M.A.Sc. in Biomedical Engineering
       institution: University of British Columbia (UBC), Vancouver  
       year: 2013-15
       description:
+        - Awarded the <b>Faculty of Applied Science Graduate Award</b>.
         - 'Supervisors: <a href="https://bisicl.ece.ubc.ca/rafeef/" target="_blank"><b>Prof. Rafeef Garbi</b></a> and <a href="https://mech.ubc.ca/antony-hodgson/" target="_blank"><b>Prof. Antony Hodgson</b></a>'
         - 'Thesis: Robust Bone Detection in Ultrasound Using Combined Strain Imaging and Envelope Signal Power Detection'
     - title: M.Sc. in Electrical and Electronic Engineering
@@ -80,11 +82,11 @@
     - title: Outstanding Reviewer Recognition
       institution: Elsevier
       year: 2016
-      description: Received this recognition from Elsevier or outstanding journal reviewing works.
+      description: Received this recognition from Elsevier for outstanding journal reviewing works.
     - title: Four Year Fellowship
       institution: University of British Columbia (UBC), Vancouver 
       year: 2015-19
-      description: Received a full scholarship of 22,000CAD/year plus full tuition coverage for 4 years from the department of Electrical and Computer Engineering, UBC. This fellowship funds the doctoral research in Biomedical Engineering at the University of British Columbia, Vancouver, Canada.
+      description: Received a full scholarship of 22,000 CAD/year plus full tuition coverage for 4 years from the Department of Electrical and Computer Engineering, UBC. This fellowship funds the doctoral research in Biomedical Engineering at the University of British Columbia, Vancouver, Canada.
     - title: Graduate Student Travel Award
       institution: Medical Image Computing and Computer Assisted Intervention Society
       year: 2014
@@ -92,7 +94,7 @@
     - title: Faculty of Applied Science Graduate Award
       institution: University of British Columbia (UBC), Vancouver 
       year: 2013-16
-      description: Award of 4,000 CA$/year offered to graduate students demonstrating evidence of strong academic performance throughout the university studies.
+      description: Award of 4,000 CA$/year offered to graduate students demonstrating evidence of strong academic performance throughout their university studies.
     - title: Singapore Bangladesh Society Scholarship
       year: 2010
       place: Singapore Bangladesh Society
@@ -104,15 +106,15 @@
     - title: Life Membership
       year: 2008
       place: Bangladesh Red Crescent Society
-      description: Awarded the “Life Membership” in recognition of the voluntary participation and efforts in relief managements and distributions of Bangladesh Red Crescent Society during different natural calamities like hurricane and tornado.
+      description: Awarded the “Life Membership” in recognition of the voluntary participation and efforts in relief management and distributions of Bangladesh Red Crescent Society during different natural calamities like hurricane and tornado.
     - title: Dean’s List Award
       year: 2007
       place: Bangladesh University of Engineering and Technology
-      description: Received an award of 3,000 BDT in recognition of achieving CGPA greater than 3.75 out of 4.00 in a year of the undergraduate class at Bangladesh University of Engineering and Technology, Dhaka, Bangladesh.
+      description: Received an award of 3,000 BDT in recognition of achieving a CGPA greater than 3.75 out of 4.00 in a year of the undergraduate class at Bangladesh University of Engineering and Technology, Dhaka, Bangladesh.
     - title: Merit Scholarship
       year: 2003-10
       place: Ministry of Education, Government of the People’s Republic of Bangladesh
-      description: Received two merit scholarships totaling 20,000 BDT/year for securing merit positions in class X and XII nation-wide board examinations.
+      description: Received two merit scholarships totaling 20,000 BDT/year for securing merit positions in class X and XII nationwide board examinations.
       
 - title: Received Offers
   type: time_table
@@ -121,7 +123,7 @@
       institution: Boston Children’s Hospital & Harvard Medical School
       year: 2020
     - title: Postdoctoral Fellowship Offer
-      institution: Massachussetts General Hospital & Harvard Medical School
+      institution: Massachusetts General Hospital & Harvard Medical School
       year: 2019
     - title: Postdoctoral Fellowship Offer
       institution: School of Medicine, Stanford University, 2019
@@ -133,6 +135,9 @@
 - title: Invited Talks
   type: time_table
   contents:
+    - title: '<a href="https://bioengineering.illinois.edu/" target="_blank"> Department of Bioengineering</a>, University of Illinois Urbana-Champaign, Urbana, IL'
+      institution: Machine Learning in Medical Image Analysis for Organ Abnormality Detection and Characterization
+      year: 2023
     - title: '<a href="https://www.csit.carleton.ca/" target="_blank">School of Information Technology</a>, Carleton University, Ottawa'
       institution: Volumetric Image-based Supervised Deep Learning for Organ Abnormality Detection and Analysis
       year: 2021
@@ -149,7 +154,7 @@
       institution: Kidney Cancer Detection and Analysis from CT Using Deep Learning
       year: 2019
       
-- title: Revieweing Experience
+- title: Reviewing Experience
   type: time_table
   contents:
     - title: 'I am/was a reviewer of the following journals/proceedings:'
@@ -158,6 +163,7 @@
          - Frontiers in Neuroscience
          - Frontiers in Neurology
          - Frontiers in Medicine
+         - Frontiers in Oncology
          - PLOS ONE
          - IEEE Transactions on Medical Imaging
          - IEEE Transactions on Neural Networks and Learning Systems
@@ -165,6 +171,7 @@
          - IEEE Journal of Biomedical and Health Informatics
          - IEEE Access
          - BMJ Open
+         - Computerized Medical Imaging and Graphics (Elsevier)
          - Heliyon (Elsevier)
          - Ultrasonics (Elsevier)
          - Computers in Biology and Medicine Journal (Elsevier)
@@ -173,7 +180,7 @@
          - Tomography (MDPI)
          - Algorithms (MDPI)
          - Deep Learning in Medical Image Analysis, 2019 (Springer)
-         - Medical Image Computing and Computer Assisted Intervention, 2019/2021 (Springer)
+         - Medical Image Computing and Computer Assisted Intervention, 2019/2021/2023 (Springer)
 
 - title: Teaching Experience
   type: time_table
