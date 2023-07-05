@@ -3,7 +3,7 @@ layout: page
 title: Active Deep Learning from Noisy Teacher
 description: Semi-Supervised COVID-19 Pneumonia Infection Segmentation in CT
 img: /assets/img/al_cover.png
-importance: 1
+importance: 2
 category: Machine Learning
 ---
 
