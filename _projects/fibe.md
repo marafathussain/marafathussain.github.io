@@ -42,6 +42,3 @@ Figure: Schematic diagram of our FIBE algorithm.
 
 ## Example Code
 An example python file ``main.py`` is given. It includes example code to run one classification and one regression problems. Further, it includes examples on how to run the algorithm with predefined fixed features.
-
-## Required Packages
-Please refer to ``requirements.txt`` file.
