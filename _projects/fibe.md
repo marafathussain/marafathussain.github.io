@@ -7,14 +7,13 @@ importance: 1
 category: Machine Learning
 ---
 
-
-# Efficient Feature Selection Using Forward Inclusion & Backward Elimination (FIBE)
+### About
 This algorithm performs a feature selection for both regression and classification tasks using any of following models (1) linear support vector regressor/classifier, (2) Gaussian support vector regressor/classifier, (3) Regression/random forest, (4) AdaBoost regressor/classifier with linear support vector and (5) AdaBoost regressor/classifier with decision trees. This algorithm can also use model consensus in feature selection using (1) linear support vector regressor/classifier, (2) Gaussian support vector regressor/classifier, and (3) Regression/random forest. For loss calculation as well as validation performance estimation, this algorithm comes with options of using (1) mean absolute error (MAE) (2) mean absolute percentage error (MAPE), (3) accuracy, (4) F1-score, and (5) binaryROC metrics. The ``fibe_function`` contains all the necessary functions to run this algorithm. 
 
-## GitHub Repo
+### GitHub Repo
 https://github.com/i3-research/fibe
 
-## How to Run the Algorithm
+### How to Run the Algorithm
 To run this algorithm, the following function is needed to call with appropriate parameter selection:
 
 ``selectedFeatures, validationPerformance = fibe(feature_df, score_df, fixed_features=None, columns_names=None, task_type=None, model_name=None, metric=None, voting_strictness=None, nFold=None, maxIter=None, verbose=True)``
@@ -36,7 +35,7 @@ The outputs are:
 - ``selectedFeatures`` is the list of features if ``columns_names`` was not ``None``. Otherwise column indexes of the selected features.
 - ``validationPerformance`` is a list containing validation performance in terms of chosen ``metric`` for ``nFold`` folds.
 
-## Algorithm Overview
+### Algorithm Overview
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/fibe.png' | relative_url }}" alt="" title="example image"/>
@@ -46,5 +45,5 @@ The outputs are:
     Fig. 1: Schematic diagram of our FIBE algorithm.
 </div>
 
-## Example Code
+### Example Code
 An example python file ``main.py`` is given. It includes example code to run one classification and one regression problems. Further, it includes examples on how to run the algorithm with predefined fixed features.
