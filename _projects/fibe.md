@@ -37,8 +37,14 @@ The outputs are:
 - ``validationPerformance`` is a list containing validation performance in terms of chosen ``metric`` for ``nFold`` folds.
 
 ## Algorithm Overview
-![Alt text](figure/figure_v2.png?raw=true "Title")
-Figure: Schematic diagram of our FIBE algorithm.
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/fibe.png' | relative_url }}" alt="" title="example image"/>
+    </div>
+</div>
+<div class="caption">
+    Fig. 1: Schematic diagram of our FIBE algorithm.
+</div>
 
 ## Example Code
 An example python file ``main.py`` is given. It includes example code to run one classification and one regression problems. Further, it includes examples on how to run the algorithm with predefined fixed features.
