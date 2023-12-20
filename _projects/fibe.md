@@ -1,3 +1,13 @@
+---
+layout: page
+title: Forward Inclusion Backward Elimination (FIBE)
+description: Efficient Feature Selection Using FIBE for Machine Learning
+img: /assets/img/fibe.png
+importance: 1
+category: Machine Learning
+---
+
+
 # Efficient Feature Selection Using Forward Inclusion & Backward Elimination (FIBE)
 This algorithm performs a feature selection for both regression and classification tasks using any of following models (1) linear support vector regressor/classifier, (2) Gaussian support vector regressor/classifier, (3) Regression/random forest, (4) AdaBoost regressor/classifier with linear support vector and (5) AdaBoost regressor/classifier with decision trees. This algorithm can also use model consensus in feature selection using (1) linear support vector regressor/classifier, (2) Gaussian support vector regressor/classifier, and (3) Regression/random forest. For loss calculation as well as validation performance estimation, this algorithm comes with options of using (1) mean absolute error (MAE) (2) mean absolute percentage error (MAPE), (3) accuracy, (4) F1-score, and (5) binaryROC metrics. The ``fibe_function`` contains all the necessary functions to run this algorithm. 
 
