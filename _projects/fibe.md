@@ -12,7 +12,7 @@ category: Machine Learning
 This algorithm performs a feature selection for both regression and classification tasks using any of the following models (1) linear support vector regressor/classifier, (2) Gaussian support vector regressor/classifier, (3) Regression/random forest, (4) AdaBoost regressor/classifier with linear support vector and (5) AdaBoost regressor/classifier with decision trees. This algorithm can also use model consensus in feature selection using (1) linear support vector regressor/classifier, (2) Gaussian support vector regressor/classifier, and (3) Regression/random forest. For loss calculation as well as validation performance estimation, this algorithm comes with options of using (1) mean absolute error (MAE) (2) mean absolute percentage error (MAPE), (3) accuracy, (4) F1-score, and (5) binaryROC metrics. The ``fibe_function`` contains all the necessary functions to run this algorithm. 
 
 ## GitHub Repo
-[[https://github.com/i3-research/fibe](https://github.com/i3-research/fibe)]
+[https://github.com/i3-research/fibe](https://github.com/i3-research/fibe)
 
 ## How to Run the Algorithm
 To run this algorithm, the following function is needed to call with appropriate parameter selection:
