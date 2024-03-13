@@ -160,16 +160,18 @@
     - title: 'I am/was a reviewer of the following journals/proceedings:'
       year: 2014-Now
       description:
-         - Frontiers in Neuroscience
-         - Frontiers in Neurology
-         - Frontiers in Medicine
-         - Frontiers in Oncology
-         - PLOS ONE
+         - Nature Communications Medicine
+         - Medical Image Analysis
          - IEEE Transactions on Medical Imaging
          - IEEE Transactions on Neural Networks and Learning Systems
          - IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control
          - IEEE Journal of Biomedical and Health Informatics
          - IEEE Access
+         - Frontiers in Neuroscience
+         - Frontiers in Neurology
+         - Frontiers in Medicine
+         - Frontiers in Oncology
+         - PLOS ONE
          - BMJ Open
          - Computerized Medical Imaging and Graphics (Elsevier)
          - Heliyon (Elsevier)
@@ -181,6 +183,7 @@
          - Algorithms (MDPI)
          - Deep Learning in Medical Image Analysis, 2019 (Springer)
          - Medical Image Computing and Computer Assisted Intervention, 2019/2021/2023 (Springer)
+         - Medical Imaging meets NeurIPS
 
 - title: Teaching Experience
   type: time_table
