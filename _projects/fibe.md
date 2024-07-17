@@ -3,7 +3,7 @@ layout: page
 title: Forward Inclusion Backward Elimination
 description: Efficient Feature Selection Using Forward Inclusion Backward Elimination for Machine Learning
 img: /assets/img/fibe.png
-importance: 1
+importance: 2
 category: Machine Learning
 ---
 
