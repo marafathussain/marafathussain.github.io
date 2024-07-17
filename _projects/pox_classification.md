@@ -3,7 +3,7 @@ layout: page
 title: Digital Skin Image Classification
 description: Classification of Pox Types
 img: /assets/img/pox.png
-importance: 1
+importance: 2
 category: Machine Learning
 ---
 
