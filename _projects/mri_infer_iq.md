@@ -3,7 +3,7 @@ layout: page
 title: Structural MRI Infering IQ
 description: Deep Learning on Brain MRI to Infer IQ Scores
 img: /assets/img/mri_iq.png
-importance: 1
+importance: 2
 category: Machine Learning
 ---
 
