@@ -67,10 +67,24 @@
     - title: Software Engineer
       institution: Samsung R&D Institute, Dhaka, Bangladesh
       year: 2011
+
+- title: Grants Received as PI 
+  type: time_table
+  contents:
+    - title: Exploring Premature Brain Aging in Adolescents and Young Adults with Congenital Heart Disease: An Explainable AI and Genomic Analysis of MRI Data
+      institution: Pediatric Cardiac Genomics Consortium (PCGC) & Cardiovascular Development Data Resource Center (CDDRC)
+      year: 2024-2025
+    - title: Adolescents and Young Adults with Congenital Heart Defect: Accelerated Brain Aging and Neurocognitive Outcomes
+      institution: American Heart Association
+      year: 2022-23
       
 - title: Honors and Awards
   type: time_table
   contents:
+    - title: International Travel Award for Trainees
+      institution: Division of Newborn Medicine, Boston Children's Hospital
+      year: 2024
+      description: Received an award of 2000 US$ to attend the premier conference, the International Conference on Medical Image Computing and Computer Assisted Interventions (MICCAI), held in Marrakesh, Morocco.
     - title: Graduate Student Award
       institution: Medical Image Computing and Computer Assisted Intervention Society
       year: 2019
