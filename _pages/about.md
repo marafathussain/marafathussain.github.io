@@ -21,7 +21,7 @@ social: false  # includes social icons at the bottom of the page
 
 [[Harvard Catalyst Profile](https://connects.catalyst.harvard.edu/Profiles/display/Person/201410){:target="_blank"}] [[HBI Connectome](https://brain.harvard.edu/hbi_connectome/mohammad-arafat-hussain/){:target="_blank"}] [[Boston Children's](https://research.childrenshospital.org/arafat){:target="_blank"}]
 
-I am currently a Postdoctoral Research Fellow in the [Fetal-Neonatal Neuroimaging Developmental Science Center](https://www.fnndsc.org/){:target="_blank"} at Harvard Medical School, Boston, Massachusetts. My research interests lie in machine/deep learning and its application to medical image analysis. 
+I am currently a Research Fellow in the [Fetal-Neonatal Neuroimaging Developmental Science Center](https://www.fnndsc.org/){:target="_blank"} at Harvard Medical School, Boston, Massachusetts. My research interests lie in machine/deep learning and its application to medical image analysis. 
 
 Previously, I worked as a Postdoctoral Research Associate in the [Medical Image Analysis Lab (MIAL)](https://www.medicalimageanalysis.com/){:target="_blank"} at [Simon Fraser University](https://www.sfu.ca/computing.html){:target="_blank"}, Burnaby, BC, Canada.
 
