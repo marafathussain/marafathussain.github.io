@@ -176,8 +176,12 @@
       description:
          - Nature Computational Science
          - Nature Communications Medicine
+         - Nature Mental Health
+         - Scientific Reports
          - Medical Image Analysis
          - IEEE Transactions on Medical Imaging
+         - IEEE Transactions on Artificial Intelligence
+         - 'IEEE Transactions on Systems, Man and Cybernetics: Systems'
          - IEEE Transactions on Neural Networks and Learning Systems
          - IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control
          - IEEE Journal of Biomedical and Health Informatics
