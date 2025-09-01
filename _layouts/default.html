@@ -7,8 +7,9 @@
     <meta http-equiv="refresh" content="3; url={{ site.baseurl }}/" />
   {%- endif -%}
   {% include head.html %}
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
 
-
+    {% if page.url == "/" %}
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -37,6 +38,7 @@
       "url": "https://marafathussain.github.io/",
       "image": "https://marafathussain.github.io/assets/img/arafat_new.png",
       "sameAs": [
+        "https://www.wikidata.org/wiki/Q135971459",
         "https://scholar.google.com/citations?user=hFwvdQcAAAAJ&hl=en",
         "https://www.linkedin.com/in/hussainma",
         "https://orcid.org/0000-0003-0545-5779",
@@ -49,6 +51,7 @@
       "knowsAbout": ["Artificial Intelligence", "Medical Image Analysis", "Neuroimaging", "Computational Genomics"]
     }
     </script>
+    {% endif %}
         
   </head>
 
