@@ -71,8 +71,11 @@
 - title: Grants Received as PI 
   type: time_table
   contents:
+    - title: AI-Based Integration of Phenotype and Genotype for Predicting Neurocognitive Outcomes in CHD
+      institution: National Institutes of Health - 1066 
+      year: 2025-26
     - title: Exploring Premature Brain Aging in Adolescents and Young Adults with Congenital Heart Disease - An Explainable AI and Genomic Analysis of MRI Data
-      institution: National Institutes Of Health - 1066 
+      institution: National Institutes of Health - 1066 
       year: 2024-25
     - title: Adolescents and Young Adults with Congenital Heart Defect - Accelerated Brain Aging and Neurocognitive Outcomes
       institution: American Heart Association
@@ -174,9 +177,10 @@
     - title: 'I am/was a reviewer of the following journals/proceedings:'
       year: 2014-Now
       description:
+         - Nature Communications
          - Nature Computational Science
-         - Nature Communications Medicine
          - Nature Mental Health
+         - Communications Medicine
          - Scientific Reports
          - Medical Image Analysis
          - IEEE Transactions on Medical Imaging
