@@ -71,7 +71,7 @@ github_username: marafathussain # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 linkedin_username: hussainma # your LinkedIn user name
-scholar_userid: https://scholar.google.ca/citations?user=hFwvdQcAAAAJ&hl=en # your Google Scholar ID
+scholar_userid: https://scholar.google.ca/citations?user=hFwvdQcAAAAJ # your Google Scholar ID
 semanticscholar_id: M.-Hussain/2067311 # your Semantic Scholar ID
 orcid_id: 0000-0003-0545-5779 # your ORCID ID
 medium_username: # your Medium username
@@ -79,7 +79,7 @@ quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: Mohammad-Arafat-Hussain # your profile on ResearchGate
 blogger_url: # your blogger URL
-work_url: # work page URL
+work_url: https://connects.catalyst.harvard.edu/Profiles/display/Person/201410
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: https://dblp.org/pid/148/7569.html # your DBLP profile url
@@ -103,7 +103,7 @@ contact_note: >
 google_analytics:  # your Goole Analytics measurement ID (format: G-XXXXXXXXXX)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
-google_site_verification:  # your google-site-verification ID (Google Search Console)
+google_site_verification:  google460bf289931239f3.html # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
@@ -296,7 +296,7 @@ jekyll-diagrams:
 
 enable_google_analytics:    false  # enables google analytics
 enable_panelbear_analytics: false  # enables panelbear analytics
-enable_google_verification: false  # enables google site verification
+enable_google_verification: true  # enables google site verification
 enable_bing_verification:   false  # enables bing site verification
 enable_masonry:             true   # enables automatic project cards arangement
 enable_math:                true   # enables math typesetting (uses MathJax)
