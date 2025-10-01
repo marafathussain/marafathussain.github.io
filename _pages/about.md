@@ -6,7 +6,7 @@ subtitle: Research Fellow, Boston Children's Hospital, Harvard Medical School #<
 
 profile:
   align: right
-  image: arafat_2025.png
+  image: Headshot.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>Children's Hospital,</p>
