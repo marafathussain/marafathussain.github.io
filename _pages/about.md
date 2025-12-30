@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-[[Harvard Catalyst Profile](https://connects.catalyst.harvard.edu/Profiles/display/Person/201410){:target="_blank"}] [[HBI Connectome](https://brain.harvard.edu/hbi_connectome/mohammad-arafat-hussain/){:target="_blank"}] [[Boston Children's](https://research.childrenshospital.org/arafat){:target="_blank"}]
+[[Harvard Catalyst Profile](https://connects.catalyst.harvard.edu/Profiles/display/Person/201410){:target="_blank"}] [[Boston Children's](https://research.childrenshospital.org/arafat){:target="_blank"}]
 
 I am currently an Instructor in the [Fetal-Neonatal Neuroimaging Developmental Science Center](https://www.fnndsc.org/){:target="_blank"} at Harvard Medical School, Boston, Massachusetts. My research interests lie in machine/deep learning and its application to medical image analysis. 
 
