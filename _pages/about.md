@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Instructor, Harvard Medical School \| Scientist, Boston Children's Hospital #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Instructor, Harvard Medical School | Scientist, Boston Children's Hospital #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
