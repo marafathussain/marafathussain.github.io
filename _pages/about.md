@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Instructor, Boston Children's Hospital, Harvard Medical School #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Instructor, Harvard Medical School \| Scientist, Boston Children's Hospital #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -21,7 +21,7 @@ social: false  # includes social icons at the bottom of the page
 
 [[Harvard Catalyst Profile](https://connects.catalyst.harvard.edu/Profiles/display/Person/201410){:target="_blank"}] [[Boston Children's](https://research.childrenshospital.org/arafat){:target="_blank"}]
 
-I am currently an Instructor in the [Fetal-Neonatal Neuroimaging Developmental Science Center](https://www.fnndsc.org/){:target="_blank"} at Harvard Medical School, Boston, Massachusetts. My research interests lie in machine/deep learning and its application to medical image analysis. 
+I am currently an Instructor at Harvard Medical School and a Scientist at [Fetal-Neonatal Neuroimaging Developmental Science Center](https://www.fnndsc.org/){:target="_blank"}, Boston Children's Hospital, Boston, Massachusetts. My research interests lie in machine/deep learning and its application to medical image analysis. 
 
 Previously, I worked as a Postdoctoral Research Associate in the [Medical Image Analysis Lab (MIAL)](https://www.medicalimageanalysis.com/){:target="_blank"} at [Simon Fraser University](https://www.sfu.ca/computing.html){:target="_blank"}, Burnaby, BC, Canada.
 
