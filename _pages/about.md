@@ -21,7 +21,7 @@ social: false  # includes social icons at the bottom of the page
 
 [[Harvard Catalyst Profile](https://connects.catalyst.harvard.edu/Profiles/display/Person/201410){:target="_blank"}] [[Boston Children's](https://research.childrenshospital.org/arafat){:target="_blank"}]
 
-:sparkles: Announcement: If you are interested in pursuing an internship or research position with self-funding, feel free to reach out to me directly at mohammad.hussain@childrens.harvard.edu. I would be happy to discuss potential opportunities and how we can align your interests with ongoing work. :sparkles:
+:sparkles: **Announcement:** If you are interested in pursuing an internship or research position with self-funding, feel free to reach out to me directly at mohammad.hussain@childrens.harvard.edu. I would be happy to discuss potential opportunities and how we can align your interests with ongoing work. 
 
 I am currently an Instructor at Harvard Medical School and a Scientist at [Fetal-Neonatal Neuroimaging Developmental Science Center](https://www.fnndsc.org/){:target="_blank"}, Boston Children's Hospital, Boston, Massachusetts. My research interests lie in machine/deep learning and its application to medical image analysis. 
 
