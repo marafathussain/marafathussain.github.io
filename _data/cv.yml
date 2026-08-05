@@ -74,6 +74,9 @@
 - title: Grants Received as PI 
   type: time_table
   contents:
+    - title: Multimodal AI for Early Neurocognitive Risk Prediction in Congenital Heart Disease
+      institution: Boston Children’s Hospital - Office of the Faculty Development
+      year: 2026-28
     - title: AI-Based Integration of Phenotype and Genotype for Predicting Neurocognitive Outcomes in CHD
       institution: National Institutes of Health - 1066 
       year: 2025-26
