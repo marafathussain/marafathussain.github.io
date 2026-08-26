@@ -9,52 +9,66 @@
   {% include head.html %}
   <link rel="canonical" href="{{ page.url | absolute_url }}">
 
-    {% if page.url == "/" %}
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Person",
-      "name": "Mohammad Arafat Hussain",
-      "alternateName": "Arafat Hussain",
-      "jobTitle": "Instructor in Pediatrics / Scientist",
-      "worksFor": [
-          {
-            "@type": "MedicalOrganization",
-            "name": "Boston Children's Hospital"
-          },
-          {
-            "@type": "EducationalOrganization",
-            "name": "Harvard Medical School"
-          }
-        ],
-        "sameAs": [
-          "https://www.wikidata.org/wiki/Q135971459",
-          "https://scholar.google.com/citations?user=hFwvdQcAAAAJ",
-          "https://research.childrenshospital.org/researchers/mohammad-arafat-hussain",
-          "https://connects.catalyst.harvard.edu/Profiles/profile/185834847",
-          "https://www.researchgate.net/profile/Mohammad-Arafat-Hussain",
-          "https://www.linkedin.com/in/hussainma",
-          "https://researchgate.net/profile/Mohammad-Arafat-Hussain",
-          "https://www.semanticscholar.org/author/Mohammad-Arafat-Hussain/2067311",
-          "https://dblp.org/pid/148/7569.html",
-          "https://labs.childrenshospital.org/arafat",
-          "https://labs.childrenshospital.org/mortonlab/people/mohammad-arafat-hussain-phd-masc-msc"
-        ]
-      "alumniOf": [
-        {
-          "@type": "CollegeOrUniversity",
-          "name": "University of British Columbia"
-        },
-        {
-          "@type": "CollegeOrUniversity",
-          "name": "Bangladesh University of Engineering & Technology"
-        }
-      ],
-      "knowsAbout": ["Artificial Intelligence", "Medical Image Analysis", "Neuroimaging", "Computational Genomics"]
-    }
-    </script>
-    {% endif %}
-        
+  {% if page.url == "/" or page.url == "" %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Mohammad Arafat Hussain",
+    "alternateName": [
+      "Arafat Hussain",
+      "MA Hussain",
+      "Mohammad A Hussain"
+    ],
+    "jobTitle": "Instructor in Pediatrics / Scientist",
+    "worksFor": [
+      {
+        "@type": "MedicalOrganization",
+        "name": "Boston Children's Hospital",
+        "url": "https://www.childrenshospital.org"
+      },
+      {
+        "@type": "EducationalOrganization",
+        "name": "Harvard Medical School",
+        "url": "https://hms.harvard.edu"
+      }
+    ],
+    "url": "https://github.io",
+    "sameAs": [
+      "https://www.wikidata.org/wiki/Q135971459",
+      "https://google.ca",
+      "https://orcid.org",
+      "https://research.childrenshospital.org/researchers/mohammad-arafat-hussain",
+      "https://harvard.edu",
+      "https://www.researchgate.net/profile/Mohammad-Arafat-Hussain",
+      "https://github.com",
+      "https://www.linkedin.com/in/hussainma",
+      "https://www.semanticscholar.org/author/Mohammad-Arafat-Hussain/2067311",
+      "https://dblp.org/pid/148/7569.html",
+      "https://labs.childrenshospital.org/arafat"
+    ],
+    "alumniOf": [
+      {
+        "@type": "CollegeOrUniversity",
+        "name": "University of British Columbia",
+        "url": "https://ubc.ca"
+      },
+      {
+        "@type": "CollegeOrUniversity",
+        "name": "Bangladesh University of Engineering and Technology",
+        "url": "https://buet.ac.bd"
+      }
+    ],
+    "knowsAbout": [
+      "Artificial Intelligence",
+      "Medical Image Analysis",
+      "Neuroimaging",
+      "Computational Genomics"
+    ]
+  }
+  </script>
+  {% endif %}
+      
   </head>
 
   <!-- Body -->
