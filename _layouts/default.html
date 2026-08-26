@@ -9,7 +9,7 @@
   {% include head.html %}
   <link rel="canonical" href="{{ page.url | absolute_url }}">
 
-  {% if page.layout == "home" or page.is_homepage %}
+  {% if page.url == "/" %}
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
