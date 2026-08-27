@@ -10,63 +10,7 @@
   <link rel="canonical" href="{{ page.url | absolute_url }}">
 
   {% if page.url == "/" %}
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "Person",
-    "name": "Mohammad Arafat Hussain",
-    "alternateName": [
-      "Arafat Hussain",
-      "MA Hussain",
-      "Mohammad A Hussain"
-    ],
-    "jobTitle": "Instructor in Pediatrics / Scientist",
-    "worksFor": [
-      {
-        "@type": "MedicalOrganization",
-        "name": "Boston Children's Hospital",
-        "url": "https://www.childrenshospital.org"
-      },
-      {
-        "@type": "EducationalOrganization",
-        "name": "Harvard Medical School",
-        "url": "https://hms.harvard.edu"
-      }
-    ],
-    "url": "https://marafathussain.github.io/",
-    "sameAs": [
-      "https://www.wikidata.org/wiki/Q135971459",
-      "https://scholar.google.com/citations?user=hFwvdQcAAAAJ",
-      "https://research.childrenshospital.org/researchers/mohammad-arafat-hussain",
-      "https://connects.catalyst.harvard.edu/Profiles/profile/185834847",
-      "https://www.researchgate.net/profile/Mohammad-Arafat-Hussain",
-      "https://www.linkedin.com/in/hussainma",
-      "https://www.semanticscholar.org/author/Mohammad-Arafat-Hussain/2067311",
-      "https://dblp.org/pid/148/7569.html",
-      "https://orcid.org/0000-0003-0545-5779",
-      "https://www.facebook.com/mhdarafat/",
-      "https://labs.childrenshospital.org/arafat"
-    ],
-    "alumniOf": [
-      {
-        "@type": "CollegeOrUniversity",
-        "name": "University of British Columbia",
-        "url": "https://ubc.ca"
-      },
-      {
-        "@type": "CollegeOrUniversity",
-        "name": "Bangladesh University of Engineering and Technology",
-        "url": "https://buet.ac.bd"
-      }
-    ],
-    "knowsAbout": [
-      "Artificial Intelligence",
-      "Medical Image Analysis",
-      "Neuroimaging",
-      "Computational Genomics"
-    ]
-  }
-  </script>
+    {% include schema-person.html %}
   {% endif %}
       
   </head>
